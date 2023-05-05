@@ -1,0 +1,1679 @@
+0|Blank|1|NoSeed,Permanent,Untradable,Beta,Mod|Foreground_Block|0|0|4|0|None
+1|Blank Seed|1|Permanent,Mod|Seed|0|0|20|31|None
+2|Dirt|1|Unknown|Foreground_Block|0|0|3|0|None
+3|Dirt Seed|1|Unknown|Seed|0|0|20|31|None
+4|Lava|1|Unknown|Pain_Block|0|0|4|0|None
+5|Lava Seed|1|Unknown|Seed|0|0|20|31|None
+6|Main Door|1|NoSeed,Permanent,Mod|Main_Door|0|0|5|0|None
+7|Main Door Seed|1|Permanent,Mod|Seed|0|0|20|31|None
+8|Bedrock|1|NoSeed,Permanent,Mod|Bedrock|0|0|4|0|None
+9|Bedrock Seed|1|Permanent,Mod|Seed|0|0|20|31|None
+10|Rock|1|Unknown|Foreground_Block|0|0|10|0|None
+11|Rock Seed|1|Unknown|Seed|0|0|20|31|None
+12|Door|2|Wrenchable|Door|0|0|5|0|None
+13|Door Seed|2|Unknown|Seed|0|0|20|68|None
+14|Cave Background|1|Unknown|Background_Block|0|0|3|0|None
+15|Cave Background Seed|1|Unknown|Seed|0|0|20|31|None
+16|Grass|2|Unknown|Foreground_Block|0|0|2|0|None
+17|Grass Seed|2|Unknown|Seed|0|0|20|68|None
+18|Fist|999|Untradable|Fist|0|0|4|0|None
+19|Fist Seed|999|Unknown|Seed|0|0|20|3600|None
+20|Sign|2|Wrenchable|Sign|0|0|5|0|None
+21|Sign Seed|2|Unknown|Seed|0|0|20|68|None
+22|Daisy|3|Unknown|Foreground_Block|0|0|3|0|None
+23|Daisy Seed|3|Unknown|Seed|0|0|20|117|None
+24|Pointy Sign|4|Wrenchable,MultiFacing|Sign|0|0|4|0|None
+25|Pointy Sign Seed|4|Unknown|Seed|0|0|20|184|None
+26|Crappy Sign|3|Wrenchable,MultiFacing|Sign|0|0|4|0|None
+27|Crappy Sign Seed|3|Unknown|Seed|0|0|20|117|None
+28|Danger Sign|5|Wrenchable,MultiFacing|Sign|0|0|4|0|None
+29|Danger Sign Seed|5|Unknown|Seed|0|0|20|275|None
+30|Dungeon Door|8|Wrenchable|Door|0|0|4|0|None
+31|Dungeon Door Seed|8|Unknown|Seed|0|0|20|752|None
+32|Wrench|999|Untradable|Wrench|0|0|4|0|None
+33|Wrench Seed|999|Unknown|Seed|0|0|20|3600|None
+34|Shades|6|Permanent|Clothing|0|0|0|0|Face
+35|Shades Seed|6|Permanent|Seed|0|0|20|396|None
+36|Green Shirt|7|Permanent|Clothing|0|0|0|0|Shirt
+37|Green Shirt Seed|7|Permanent|Seed|0|0|20|553|None
+38|Tuxedo|7|Permanent|Clothing|0|0|0|0|Shirt
+39|Tuxedo Seed|7|Permanent|Seed|0|0|20|553|None
+40|Brown Shoes|5|Permanent|Clothing|0|0|0|0|Feet
+41|Brown Shoes Seed|5|Permanent|Seed|0|0|20|275|None
+42|Boots|5|Permanent|Clothing|0|0|0|0|Feet
+43|Boots Seed|5|Permanent|Seed|0|0|20|275|None
+44|Red Hair|6|Permanent|Clothing|0|0|0|0|Hair
+45|Red Hair Seed|6|Permanent|Seed|0|0|20|396|None
+46|Baseball Cap|13|Permanent|Clothing|0|0|0|0|Hat
+47|Baseball Cap Seed|13|Permanent|Seed|0|0|20|2587|None
+48|Jeans|6|Permanent|Clothing|0|0|0|0|Pants
+49|Jeans Seed|6|Permanent|Seed|0|0|20|396|None
+50|Sexy Boxers|18|Permanent|Clothing|0|0|0|0|Pants
+51|Sexy Boxers Seed|18|Permanent|Seed|0|0|20|6372|None
+52|Wooden Background|4|Unknown|Background_Block|0|0|3|0|None
+53|Wooden Background Seed|4|Unknown|Seed|0|0|20|184|None
+54|Window|6|Unknown|Background_Block|0|0|2|0|None
+55|Window Seed|6|Unknown|Seed|0|0|20|396|None
+56|Glass Pane|2|Unknown|Background_Block|0|0|2|0|None
+57|Glass Pane Seed|2|Unknown|Seed|0|0|20|68|None
+58|Wooden Window|10|Unknown|Background_Block|0|0|2|0|None
+59|Wooden Window Seed|10|Unknown|Seed|0|0|20|1300|None
+60|Portcullis|16|Wrenchable|Gateway|0|0|10|0|None
+61|Portcullis Seed|16|Unknown|Seed|0|0|20|4576|None
+62|Boombox|39|Wrenchable,MultiFacing|Toggleable_Foreground|0|0|10|0|None
+63|Boombox Seed|39|Unknown|Seed|0|0|20|60489|None
+64|Olde Timey Radio|15|Wrenchable,MultiFacing|Toggleable_Foreground|0|0|10|0|None
+65|Olde Timey Radio Seed|15|Unknown|Seed|0|0|20|3825|None
+66|Top Hat|7|Permanent|Clothing|0|0|0|0|Hat
+67|Top Hat Seed|7|Permanent|Seed|0|0|20|553|None
+68|Brown Hair|5|Permanent|Clothing|0|0|0|0|Hair
+69|Brown Hair Seed|5|Permanent|Seed|0|0|20|275|None
+70|Spikey Hair|14|Permanent|Clothing|0|0|0|0|Hair
+71|Spikey Hair Seed|14|Permanent|Seed|0|0|20|3164|None
+72|Afro|13|Permanent|Clothing|0|0|0|0|Hair
+73|Afro Seed|13|Permanent|Seed|0|0|20|2587|None
+74|Ski Cap|18|Permanent|Clothing|0|0|0|0|Hat
+75|Ski Cap Seed|18|Permanent|Seed|0|0|20|6372|None
+76|Black Pants|6|Permanent|Clothing|0|0|0|0|Pants
+77|Black Pants Seed|6|Permanent|Seed|0|0|20|396|None
+78|Patent Leather Shoes|11|Permanent|Clothing|0|0|0|0|Feet
+79|Patent Leather Shoes Seed|11|Permanent|Seed|0|0|20|1661|None
+80|Ruby Slippers|49|Permanent|Clothing|0|0|0|0|Feet
+81|Ruby Slippers Seed|49|Permanent|Seed|0|0|20|119119|None
+82|Green Skirt|11|Permanent|Clothing|0|0|0|0|Pants
+83|Green Skirt Seed|11|Permanent|Seed|0|0|20|1661|None
+84|Green Blouse|14|Permanent|Clothing|0|0|0|0|Shirt
+85|Green Blouse Seed|14|Permanent|Seed|0|0|20|3164|None
+86|Purple Thong|24|Permanent|Clothing|0|0|0|0|Pants
+87|Purple Thong Seed|24|Permanent|Seed|0|0|20|14544|None
+88|Purple Bikini Top|22|Permanent|Clothing|0|0|0|0|Shirt
+89|Purple Bikini Top Seed|22|Permanent|Seed|0|0|20|11308|None
+90|Blonde Bombshell|8|Permanent|Clothing|0|0|0|0|Hair
+91|Blonde Bombshell Seed|8|Permanent|Seed|0|0|20|752|None
+92|Briefcase|14|Permanent|Clothing|0|0|0|0|Hand
+93|Briefcase Seed|14|Permanent|Seed|0|0|20|3164|None
+94|Sword|11|Permanent|Clothing|0|0|0|0|Hand
+95|Sword Seed|11|Permanent|Seed|0|0|20|1661|None
+96|Just One Boxing Glove|16|Permanent|Clothing|0|0|0|0|Hand
+97|Just One Boxing Glove Seed|16|Permanent|Seed|0|0|20|4576|None
+98|Pickaxe|17|Permanent|Clothing|0|0|0|0|Hand
+99|Pickaxe Seed|17|Permanent|Seed|0|0|20|5423|None
+100|Wood Block|2|Unknown|Foreground_Block|0|0|3|0|None
+101|Wood Block Seed|2|Unknown|Seed|0|0|20|68|None
+102|Wooden Platform|4|Unknown|Platform|0|0|3|0|None
+103|Wooden Platform Seed|4|Unknown|Seed|0|0|20|184|None
+104|Rock Background|3|Unknown|Background_Block|0|0|3|0|None
+105|Rock Background Seed|3|Unknown|Seed|0|0|20|117|None
+106|Toilet|7|MultiFacing|SFX_Foreground|0|0|10|0|None
+107|Toilet Seed|7|Unknown|Seed|0|0|20|553|None
+108|Painting: Yerfdog|10|Unknown|Background_Block|0|0|3|0|None
+109|Painting: Yerfdog Seed|10|Unknown|Seed|0|0|20|1300|None
+110|Painting: Dink Duck|10|Unknown|Background_Block|0|0|3|0|None
+111|Painting: Dink Duck Seed|10|Unknown|Seed|0|0|20|1300|None
+112|Gems|999|NoSeed,Permanent|Gems|0|0|3|0|None
+113|Gems Seed|999|Unknown|Seed|0|0|20|3600|None
+114|Disco Ball|45|Wrenchable|Toggleable_Foreground|0|0|10|0|None
+115|Disco Ball Seed|45|Unknown|Seed|0|0|20|92475|None
+116|Bricks|3|Unknown|Foreground_Block|0|0|5|0|None
+117|Bricks Seed|3|Unknown|Seed|0|0|20|117|None
+118|Brick Background|7|Unknown|Background_Block|0|0|4|0|None
+119|Brick Background Seed|7|Unknown|Seed|0|0|20|553|None
+120|Mystery Block|80|NoSeed,Permanent|Treasure|0|0|3|0|None
+121|Mystery Block Seed|80|Permanent|Seed|0|0|20|514400|None
+122|Red Riding Hood|7|Permanent|Clothing|0|0|0|0|Hat
+123|Red Riding Hood Seed|7|Permanent|Seed|0|0|20|553|None
+124|Red Coat|13|Permanent|Clothing|0|0|0|0|Shirt
+125|Red Coat Seed|13|Permanent|Seed|0|0|20|2587|None
+126|Devil Horns|9|Unknown|Consummable|0|0|2|0|None
+127|Devil Horns Seed|9|Unknown|Seed|0|0|20|999|None
+128|Golden Halo|51|Unknown|Consummable|0|0|2|0|None
+129|Golden Halo Seed|51|Unknown|Seed|0|0|20|134181|None
+130|Hot Head|5|Permanent|Clothing|0|0|0|0|Hair
+131|Hot Head Seed|5|Permanent|Seed|0|0|20|275|None
+132|Brainwave Capacitor|21|Permanent|Clothing|0|0|0|0|Hat
+133|Brainwave Capacitor Seed|21|Permanent|Seed|0|0|20|9891|None
+134|TV Head|17|Permanent,Foreground|Clothing|0|0|0|0|Hair
+135|TV Head Seed|17|Permanent|Seed|0|0|20|5423|None
+136|Fairy Crown|47|Permanent|Clothing|0|0|0|0|Hat
+137|Fairy Crown Seed|47|Permanent|Seed|0|0|20|105233|None
+138|Cyclopean Visor|10|Permanent|Clothing|0|0|0|0|Face
+139|Cyclopean Visor Seed|10|Permanent|Seed|0|0|20|1300|None
+140|Biker Stache|6|Permanent|Clothing|0|0|0|0|Face
+141|Biker Stache Seed|6|Permanent|Seed|0|0|20|396|None
+142|Shallot Mustache|5|Permanent|Clothing|0|0|0|0|Face
+143|Shallot Mustache Seed|5|Permanent|Seed|0|0|20|275|None
+144|X-Ray Specs|8|Permanent|Clothing|0|0|0|0|Face
+145|X-Ray Specs Seed|8|Permanent|Seed|0|0|20|752|None
+146|Gold-Rimmed Glasses|12|Permanent|Clothing|0|0|0|0|Face
+147|Gold-Rimmed Glasses Seed|12|Permanent|Seed|0|0|20|2088|None
+148|Big Glasses|16|Permanent|Clothing|0|0|0|0|Face
+149|Big Glasses Seed|16|Permanent|Seed|0|0|20|4576|None
+150|Fairy Dress|50|Permanent|Clothing|0|0|0|0|Shirt
+151|Fairy Dress Seed|50|Permanent|Seed|0|0|20|126500|None
+152|Fairy Skirt|48|Permanent|Clothing|0|0|0|0|Pants
+153|Fairy Skirt Seed|48|Permanent|Seed|0|0|20|112032|None
+154|Fairy Slippers|51|Permanent|Clothing|0|0|0|0|Feet
+155|Fairy Slippers Seed|51|Permanent|Seed|0|0|20|134181|None
+156|Fairy Wings|52|Permanent|Clothing|0|0|0|0|Back
+157|Fairy Wings Seed|52|Permanent|Seed|0|0|20|142168|None
+158|Fairy Wand|47|Permanent|Clothing|0|0|0|0|Hand
+159|Fairy Wand Seed|47|Permanent|Seed|0|0|20|105233|None
+160|Jetpack|36|Permanent|Clothing|0|0|0|0|Back
+161|Jetpack Seed|36|Permanent|Seed|0|0|20|47736|None
+162|Death Spikes|8|Unknown|Deadly_Block|0|0|6|0|None
+163|Death Spikes Seed|8|Unknown|Seed|0|0|20|752|None
+164|Grey Block|4|Unknown|Foreground_Block|0|0|8|0|None
+165|Grey Block Seed|4|Unknown|Seed|0|0|20|184|None
+166|Black Block|4|Unknown|Foreground_Block|0|0|8|0|None
+167|Black Block Seed|4|Unknown|Seed|0|0|20|184|None
+168|White Block|6|Unknown|Foreground_Block|0|0|8|0|None
+169|White Block Seed|6|Unknown|Seed|0|0|20|396|None
+170|Red Block|4|Unknown|Foreground_Block|0|0|8|0|None
+171|Red Block Seed|4|Unknown|Seed|0|0|20|184|None
+172|Orange Block|9|Unknown|Foreground_Block|0|0|8|0|None
+173|Orange Block Seed|9|Unknown|Seed|0|0|20|999|None
+174|Yellow Block|6|Unknown|Foreground_Block|0|0|8|0|None
+175|Yellow Block Seed|6|Unknown|Seed|0|0|20|396|None
+176|Green Block|5|Unknown|Foreground_Block|0|0|8|0|None
+177|Green Block Seed|5|Unknown|Seed|0|0|20|275|None
+178|Aqua Block|5|Unknown|Foreground_Block|0|0|8|0|None
+179|Aqua Block Seed|5|Unknown|Seed|0|0|20|275|None
+180|Blue Block|15|Unknown|Foreground_Block|0|0|8|0|None
+181|Blue Block Seed|15|Unknown|Seed|0|0|20|3825|None
+182|Purple Block|19|Unknown|Foreground_Block|0|0|10|0|None
+183|Purple Block Seed|19|Unknown|Seed|0|0|20|7429|None
+184|Brown Block|4|Unknown|Foreground_Block|0|0|8|0|None
+185|Brown Block Seed|4|Unknown|Seed|0|0|20|184|None
+186|Steel Block|35|Unknown|Foreground_Block|0|0|20|0|None
+187|Steel Block Seed|35|Unknown|Seed|0|0|20|43925|None
+188|Poppy|6|Unknown|Foreground_Block|0|0|3|0|None
+189|Poppy Seed|6|Unknown|Seed|0|0|20|396|None
+190|Rose|3|Unknown|Foreground_Block|0|0|3|0|None
+191|Rose Seed|3|Unknown|Seed|0|0|20|117|None
+192|Bush|9|Unknown|Foreground_Block|0|0|3|0|None
+193|Bush Seed|9|Unknown|Seed|0|0|20|999|None
+194|Mushroom|3|Unknown|Trampoline_Block|0|0|3|0|None
+195|Mushroom Seed|3|Unknown|Seed|0|0|20|117|None
+196|Blueberry|12|Unknown|Consummable|0|0|3|0|None
+197|Blueberry Seed|12|Unknown|Seed|0|0|20|2088|None
+198|Flowery Wallpaper|7|Unknown|Background_Block|0|0|3|0|None
+199|Flowery Wallpaper Seed|7|Unknown|Seed|0|0|20|553|None
+200|Stripey Wallpaper|10|Unknown|Background_Block|0|0|3|0|None
+201|Stripey Wallpaper Seed|10|Unknown|Seed|0|0|20|1300|None
+202|Small Lock|999|Wrenchable,Dropless,Permanent,AutoPickup|Lock|0|0|10|0|None
+203|Small Lock Seed|999|Permanent|Seed|0|0|20|3600|None
+204|Big Lock|999|Wrenchable,Dropless,Permanent,AutoPickup|Lock|0|0|10|0|None
+205|Big Lock Seed|999|Permanent|Seed|0|0|20|3600|None
+206|Huge Lock|999|Wrenchable,Dropless,Permanent,AutoPickup|Lock|0|0|10|0|None
+207|Huge Lock Seed|999|Permanent|Seed|0|0|20|3600|None
+208|Burglar Mask|8|Permanent|Clothing|0|0|0|0|Face
+209|Burglar Mask Seed|8|Permanent|Seed|0|0|20|752|None
+210|Referee Shirt|10|Permanent|Clothing|0|0|0|0|Shirt
+211|Referee Shirt Seed|10|Permanent|Seed|0|0|20|1300|None
+212|Froghat|14|Permanent|Clothing|0|0|0|0|Hat
+213|Froghat Seed|14|Permanent|Seed|0|0|20|3164|None
+214|Flashlight|10|Permanent|Clothing|0|0|0|0|Hand
+215|Flashlight Seed|10|Permanent|Seed|0|0|20|1300|None
+216|Rooster Hat|12|Permanent|Clothing|0|0|0|0|Hat
+217|Rooster Hat Seed|12|Permanent|Seed|0|0|20|2088|None
+218|Wooden Chair|11|MultiFacing|Foreground_Block|0|0|4|0|None
+219|Wooden Chair Seed|11|Unknown|Seed|0|0|20|1661|None
+220|Note Block|30|Wrenchable|Toggleable_Foreground|0|0|10|0|None
+221|Note Block Seed|30|Unknown|Seed|0|0|20|27900|None
+222|Wooden Table|6|Unknown|Platform|0|0|3|0|None
+223|Wooden Table Seed|6|Unknown|Seed|0|0|20|396|None
+224|House Entrance|10|Wrenchable,MultiFacing|Gateway|0|0|5|0|None
+225|House Entrance Seed|10|Unknown|Seed|0|0|20|1300|None
+226|Signal Jammer|999|Wrenchable,Dropless,AutoPickup|Toggleable_Foreground|0|0|30|0|None
+227|Signal Jammer Seed|999|Unknown|Seed|0|0|20|3600|None
+228|Grow Spray Fertilizer|999|Unknown|Consummable|0|0|30|0|None
+229|Grow Spray Fertilizer Seed|999|Unknown|Seed|0|0|20|3600|None
+230|Bathtub|13|MultiFacing|SFX_Foreground|0|0|15|0|None
+231|Bathtub Seed|13|Unknown|Seed|0|0|20|2587|None
+232|White Beard|15|Permanent|Clothing|0|0|0|0|Face
+233|White Beard Seed|15|Permanent|Seed|0|0|20|3825|None
+234|Santa Hat|10|Permanent|Clothing|0|0|0|0|Hat
+235|Santa Hat Seed|10|Permanent|Seed|0|0|20|1300|None
+236|Santa Pants|5|Permanent|Clothing|0|0|0|0|Pants
+237|Santa Pants Seed|5|Permanent|Seed|0|0|20|275|None
+238|Santa Vest|7|Permanent|Clothing|0|0|0|0|Shirt
+239|Santa Vest Seed|7|Permanent|Seed|0|0|20|553|None
+240|Sack O' Joy|75|Permanent|Clothing|0|0|0|0|Back
+241|Sack O' Joy Seed|75|Permanent|Seed|0|0|20|424125|None
+242|World Lock|999|Wrenchable,Dropless,Permanent,AutoPickup|Lock|0|0|42|0|None
+243|World Lock Seed|999|Permanent|Seed|0|0|20|3600|None
+244|UPDATE_STORE|999|NoSeed,Permanent,Mod|Foreground_Block|0|0|0|0|None
+245|UPDATE_STORE Seed|999|Permanent,Mod|Seed|0|0|20|3600|None
+246|Music Box|38|Wrenchable,MultiFacing|Toggleable_Foreground|0|0|10|0|None
+247|Music Box Seed|38|Unknown|Seed|0|0|20|56012|None
+248|Evil Bricks|5|Unknown|Animated_Foreground_Block|0|0|6|0|None
+249|Evil Bricks Seed|5|Unknown|Seed|0|0|20|275|None
+250|Asbestos Boots|11|Permanent|Clothing|0|0|0|0|Feet
+251|Asbestos Boots Seed|11|Permanent|Seed|0|0|20|1661|None
+252|Cuzco Wall Mount|18|Unknown|Foreground_Block|0|0|3|0|None
+253|Cuzco Wall Mount Seed|18|Unknown|Seed|0|0|20|6372|None
+254|Robot Wants Dubstep|65|Wrenchable,MultiFacing|Toggleable_Foreground|0|0|10|0|None
+255|Robot Wants Dubstep Seed|65|Unknown|Seed|0|0|20|276575|None
+256|Saturday Night Vest|86|Permanent|Clothing|0|0|0|0|Shirt
+257|Saturday Night Vest Seed|86|Permanent|Seed|0|0|20|638636|None
+258|White Bellbottoms|51|Permanent|Clothing|0|0|0|0|Pants
+259|White Bellbottoms Seed|51|Permanent|Seed|0|0|20|134181|None
+260|Golden Block|41|Unknown|Foreground_Block|0|0|20|0|None
+261|Golden Block Seed|41|Unknown|Seed|0|0|20|70151|None
+262|Crystal Block|100|Unknown|Foreground_Block|0|0|15|0|None
+263|Crystal Block Seed|100|Unknown|Seed|0|0|20|1003000|None
+264|Picket Fence|17|Foreground|Foreground_Block|0|0|3|0|None
+265|Picket Fence Seed|17|Unknown|Seed|0|0|20|5423|None
+266|Long Black Hair|20|Permanent|Clothing|0|0|0|0|Hair
+267|Long Black Hair Seed|20|Permanent|Seed|0|0|20|8600|None
+268|Purple Mohawk|36|Permanent|Clothing|0|0|0|0|Hair
+269|Purple Mohawk Seed|36|Permanent|Seed|0|0|20|47736|None
+270|Messy Brown Hair|5|Permanent|Clothing|0|0|0|0|Hair
+271|Messy Brown Hair Seed|5|Permanent|Seed|0|0|20|275|None
+272|Long Brown Hair|8|Permanent|Clothing|0|0|0|0|Hair
+273|Long Brown Hair Seed|8|Permanent|Seed|0|0|20|752|None
+274|Freeze Wand|999|NoSeed,Permanent|Consummable|0|0|20|0|None
+275|Freeze Wand Seed|999|Unknown|Seed|0|0|20|3600|None
+276|Fire Wand|999|NoSeed,Permanent|Consummable|0|0|20|0|None
+277|Fire Wand Seed|999|Unknown|Seed|0|0|20|3600|None
+278|Curse Wand|999|NoSeed,Permanent,Untradable,Mod|Consummable|0|0|20|0|None
+279|Curse Wand Seed|999|Unknown|Seed|0|0|20|3600|None
+280|Bed|14|MultiFacing|Foreground_Block|0|0|5|0|None
+281|Bed Seed|14|Unknown|Seed|0|0|20|3164|None
+282|Polka Dot Block|15|Unknown|Foreground_Block|0|0|5|0|None
+283|Polka Dot Block Seed|15|Unknown|Seed|0|0|20|3825|None
+284|Checker Wallpaper|11|Unknown|Background_Block|0|0|3|0|None
+285|Checker Wallpaper Seed|11|Unknown|Seed|0|0|20|1661|None
+286|Fireplace|46|Wrenchable|Toggleable_Foreground|0|0|6|0|None
+287|Fireplace Seed|46|Unknown|Seed|0|0|20|98716|None
+288|Snorkel|15|Permanent|Clothing|0|0|0|0|Face
+289|Snorkel Seed|15|Permanent|Seed|0|0|20|3825|None
+290|Ninja Mask|44|Permanent|Clothing|0|0|0|0|Hair
+291|Ninja Mask Seed|44|Permanent|Seed|0|0|20|86504|None
+292|Ninja Tights|59|Permanent|Clothing|0|0|0|0|Pants
+293|Ninja Tights Seed|59|Permanent|Seed|0|0|20|207149|None
+294|Ninja Vest|55|Permanent|Clothing|0|0|0|0|Shirt
+295|Ninja Vest Seed|55|Permanent|Seed|0|0|20|168025|None
+296|Ninja Slippers|44|Permanent|Clothing|0|0|0|0|Feet
+297|Ninja Slippers Seed|44|Permanent|Seed|0|0|20|86504|None
+298|The Darkness|40|Unknown|Background_Block|0|0|3|0|None
+299|The Darkness Seed|40|Unknown|Seed|0|0|20|65200|None
+300|Rubber Ducky|23|MultiFacing|SFX_Foreground|0|0|4|0|None
+301|Rubber Ducky Seed|23|Unknown|Seed|0|0|20|12857|None
+302|Checkered Pajamas|25|Permanent|Clothing|0|0|0|0|Shirt
+303|Checkered Pajamas Seed|25|Permanent|Seed|0|0|20|16375|None
+304|Tie Dyed Shirt|26|Permanent|Clothing|0|0|0|0|Shirt
+305|Tie Dyed Shirt Seed|26|Permanent|Seed|0|0|20|18356|None
+306|Rainbow Wig|74|Permanent|Clothing|0|0|0|0|Hair
+307|Rainbow Wig Seed|74|Permanent|Seed|0|0|20|407444|None
+308|Rainbow Block|28|Unknown|Foreground_Block|0|0|5|0|None
+309|Rainbow Block Seed|28|Unknown|Seed|0|0|20|22792|None
+310|Monocle|44|Permanent|Clothing|0|0|0|0|Face
+311|Monocle Seed|44|Permanent|Seed|0|0|20|86504|None
+312|Pirate Hat|53|Permanent|Clothing|0|0|0|0|Hat
+313|Pirate Hat Seed|53|Permanent|Seed|0|0|20|150467|None
+314|Eyepatch|68|Permanent|Clothing|0|0|0|0|Face
+315|Eyepatch Seed|68|Permanent|Seed|0|0|20|316472|None
+316|Peg Leg|29|Permanent|Clothing|0|0|0|0|Feet
+317|Peg Leg Seed|29|Permanent|Seed|0|0|20|25259|None
+318|Diamond Ring|141|Permanent|Clothing|0|0|0|0|Hand
+319|Diamond Ring Seed|141|Permanent|Seed|0|0|20|2807451|None
+320|Cannon|50|MultiFacing|SFX_Foreground|0|0|4|0|None
+321|Cannon Seed|50|Unknown|Seed|0|0|20|126500|None
+322|High Tech Wall|69|Unknown|Background_Block|0|0|3|0|None
+323|High Tech Wall Seed|69|Unknown|Seed|0|0|20|330579|None
+324|High Tech Block|69|Unknown|Foreground_Block|0|0|9|0|None
+325|High Tech Block Seed|69|Unknown|Seed|0|0|20|330579|None
+326|Magic Bacon Wallpaper|38|Unknown|Background_Block|0|0|3|0|None
+327|Magic Bacon Wallpaper Seed|38|Unknown|Seed|0|0|20|56012|None
+328|Bubble Wrap|14|Unknown|SFX_Background|0|0|4|0|None
+329|Bubble Wrap Seed|14|Unknown|Seed|0|0|20|3164|None
+330|Cactus|17|Unknown|Spike|0|0|4|0|None
+331|Cactus Seed|17|Unknown|Seed|0|0|20|5423|None
+332|Sandstone|18|Unknown|Foreground_Block|0|0|3|0|None
+333|Sandstone Seed|18|Unknown|Seed|0|0|20|6372|None
+334|Art Wall|66|Unknown|Toggleable_Background|0|0|10|0|None
+335|Art Wall Seed|66|Unknown|Seed|0|0|20|289476|None
+336|Stone Wall|5|Unknown|Foreground_Block|0|0|4|0|None
+337|Stone Wall Seed|5|Unknown|Seed|0|0|20|275|None
+338|Das Red Balloon|18|Unknown|Consummable|0|0|2|0|None
+339|Das Red Balloon Seed|18|Unknown|Seed|0|0|20|6372|None
+340|Chandelier|87|Unknown|Animated_Foreground_Block|0|0|7|0|None
+341|Chandelier Seed|87|Unknown|Seed|0|0|20|661113|None
+342|Lovely Pink Dress|10|Permanent|Clothing|0|0|0|0|Shirt
+343|Lovely Pink Dress Seed|10|Permanent|Seed|0|0|20|1300|None
+344|Fishnet Stockings|79|Permanent|Clothing|0|0|0|0|Pants
+345|Fishnet Stockings Seed|79|Permanent|Seed|0|0|20|495409|None
+346|Monster Feet|14|Permanent|Clothing|0|0|0|0|Feet
+347|Monster Feet Seed|14|Permanent|Seed|0|0|20|3164|None
+348|Hoop Earrings|57|Permanent|Clothing|0|0|0|0|Face
+349|Hoop Earrings Seed|57|Permanent|Seed|0|0|20|186903|None
+350|Heroman Cape|999|Permanent,Mod|Clothing|0|0|0|0|Back
+351|Heroman Cape Seed|999|Permanent,Mod|Seed|0|0|20|3600|None
+352|Lollipop|31|Permanent|Clothing|0|0|0|0|Hand
+353|Lollipop Seed|31|Permanent|Seed|0|0|20|30721|None
+354|Viking Helmet|9|Permanent|Clothing|0|0|0|0|Hat
+355|Viking Helmet Seed|9|Permanent|Seed|0|0|20|999|None
+356|Pigtails|12|Permanent|Clothing|0|0|0|0|Hair
+357|Pigtails Seed|12|Permanent|Seed|0|0|20|2088|None
+358|Cloudstone Block|28|Unknown|Foreground_Block|0|0|3|0|None
+359|Cloudstone Block Seed|28|Unknown|Seed|0|0|20|22792|None
+360|Dreamstone Block|23|Unknown|Foreground_Block|0|0|3|0|None
+361|Dreamstone Block Seed|23|Unknown|Seed|0|0|20|12857|None
+362|Angel Wings|999|NoSeed,Permanent|Clothing|0|0|0|0|Back
+363|Angel Wings Seed|999|Permanent|Seed|0|0|20|3600|None
+364|Diaper|999|NoSeed,Permanent|Clothing|0|0|0|0|Pants
+365|Diaper Seed|999|Permanent|Seed|0|0|20|3600|None
+366|Heartbow|999|NoSeed,Permanent|Clothing|0|0|0|0|Hand
+367|Heartbow Seed|999|Permanent|Seed|0|0|20|3600|None
+368|Mud Glob|4|Unknown|Consummable|0|0|3|0|None
+369|Mud Glob Seed|4|Unknown|Seed|0|0|20|184|None
+370|Cargo Shorts|3|Permanent|Clothing|0|0|0|0|Pants
+371|Cargo Shorts Seed|3|Permanent|Seed|0|0|20|117|None
+372|Stinky Socks|4|Permanent|Clothing|0|0|0|0|Feet
+373|Stinky Socks Seed|4|Permanent|Seed|0|0|20|184|None
+374|Tan Shirt|4|Permanent|Clothing|0|0|0|0|Shirt
+375|Tan Shirt Seed|4|Permanent|Seed|0|0|20|184|None
+376|Super Crate Box|3|Unknown|Foreground_Block|0|0|3|0|None
+377|Super Crate Box Seed|3|Unknown|Seed|0|0|20|117|None
+378|Amber Glass|3|Unknown|Background_Block|0|0|2|0|None
+379|Amber Glass Seed|3|Unknown|Seed|0|0|20|117|None
+380|Lava Rock|2|Unknown|Foreground_Block|0|0|4|0|None
+381|Lava Rock Seed|2|Unknown|Seed|0|0|20|68|None
+382|Time-Space Rupture|79|NoShadow,Wrenchable|Door|0|0|5|0|None
+383|Time-Space Rupture Seed|79|Unknown|Seed|0|0|20|495409|None
+384|Valentine|999|NoSelf,NoSeed,Permanent|Consummable|0|0|3|0|None
+385|Valentine Seed|999|Permanent|Seed|0|0|20|3600|None
+386|Candy Heart|999|NoSeed,Permanent|Consummable|0|0|3|0|None
+387|Candy Heart Seed|999|Permanent|Seed|0|0|20|3600|None
+388|Perfume|999|NoSeed,Permanent|Consummable|0|0|3|0|None
+389|Perfume Seed|999|Permanent|Seed|0|0|20|3600|None
+390|Heartstone Block|999|NoSeed,Permanent|Foreground_Block|0|0|6|0|None
+391|Heartstone Block Seed|999|Permanent|Seed|0|0|20|3600|None
+392|Heartstone|100|NoSeed,Permanent|Foreground_Block|0|0|10|0|None
+393|Heartstone Seed|100|Permanent|Seed|0|0|20|1003000|None
+394|Ultra Trophy 3000|999|Dropless,WorldLock,AutoPickup|Foreground_Block|0|0|10|0|None
+395|Ultra Trophy 3000 Seed|999|Unknown|Seed|0|0|20|3600|None
+396|Ultra Trophy 3001|999|Dropless|Foreground_Block|0|0|10|0|None
+397|Ultra Trophy 3001 Seed|999|Unknown|Seed|0|0|20|3600|None
+398|Stove|71|Wrenchable,MultiFacing|Toggleable_Foreground|0|0|7|0|None
+399|Stove Seed|71|Unknown|Seed|0|0|20|360041|None
+400|Spatula|88|Permanent|Clothing|0|0|0|0|Hand
+401|Spatula Seed|88|Permanent|Seed|0|0|20|684112|None
+402|Apron|82|Permanent|Clothing|0|0|0|0|Shirt
+403|Apron Seed|82|Permanent|Seed|0|0|20|553828|None
+404|Chef Hat|74|Permanent|Clothing|0|0|0|0|Hat
+405|Chef Hat Seed|74|Permanent|Seed|0|0|20|407444|None
+406|Blueberry Pie|83|Unknown|Consummable|0|0|3|0|None
+407|Blueberry Pie Seed|83|Unknown|Seed|0|0|20|574277|None
+408|Duct Tape|999|NoSeed,Permanent|Consummable|0|0|20|0|None
+409|Duct Tape Seed|999|Unknown|Seed|0|0|20|3600|None
+410|Checkpoint|42|Unknown|Checkpoint|0|0|7|0|None
+411|Checkpoint Seed|42|Unknown|Seed|0|0|20|75348|None
+412|Sheet Music: Blank|9|WorldLock|Background|0|0|3|0|None
+413|Sheet Music: Blank Seed|9|Unknown|Seed|0|0|20|999|None
+414|Sheet Music: Bass Note|24|WorldLock|Background|0|0|3|0|None
+415|Sheet Music: Bass Note Seed|24|Unknown|Seed|0|0|20|14544|None
+416|Sheet Music: Sharp Bass|32|WorldLock|Background|0|0|3|0|None
+417|Sheet Music: Sharp Bass Seed|32|Unknown|Seed|0|0|20|33728|None
+418|Sheet Music: Flat Bass|25|WorldLock|Background|0|0|3|0|None
+419|Sheet Music: Flat Bass Seed|25|Unknown|Seed|0|0|20|16375|None
+420|Sheet Music: Piano Note|14|WorldLock|Background|0|0|3|0|None
+421|Sheet Music: Piano Note Seed|14|Unknown|Seed|0|0|20|3164|None
+422|Sheet Music: Sharp Piano|22|WorldLock|Background|0|0|3|0|None
+423|Sheet Music: Sharp Piano Seed|22|Unknown|Seed|0|0|20|11308|None
+424|Sheet Music: Flat Piano|15|WorldLock|Background|0|0|3|0|None
+425|Sheet Music: Flat Piano Seed|15|Unknown|Seed|0|0|20|3825|None
+426|Sheet Music: Drums|13|WorldLock|Background|0|0|3|0|None
+427|Sheet Music: Drums Seed|13|Unknown|Seed|0|0|20|2587|None
+428|Race Start Flag|22|Unknown|Foreground_Block|0|0|5|0|None
+429|Race Start Flag Seed|22|Unknown|Seed|0|0|20|11308|None
+430|Race End Flag|33|Unknown|Foreground_Block|0|0|5|0|None
+431|Race End Flag Seed|33|Unknown|Seed|0|0|20|36927|None
+432|Blue Star Wallpaper|18|Unknown|Background_Block|0|0|3|0|None
+433|Blue Star Wallpaper Seed|18|Unknown|Seed|0|0|20|6372|None
+434|Sandstone Wall|1|Unknown|Background_Block|0|0|3|0|None
+435|Sandstone Wall Seed|1|Unknown|Seed|0|0|20|31|None
+436|Wall Like An Egyptian|22|Unknown|Background_Block|0|0|3|0|None
+437|Wall Like An Egyptian Seed|22|Unknown|Seed|0|0|20|11308|None
+438|Plumbing|18|Unknown|Foreground_Block|0|0|4|0|None
+439|Plumbing Seed|18|Unknown|Seed|0|0|20|6372|None
+440|Ice|30|Unknown|Slippery_Block|0|0|6|0|None
+441|Ice Seed|30|Unknown|Seed|0|0|20|27900|None
+442|Sand|1|Unknown|Foreground_Block|0|0|3|0|None
+443|Sand Seed|1|Unknown|Seed|0|0|20|31|None
+444|Fishbowl|40|Unknown|Foreground_Block|0|0|7|0|None
+445|Fishbowl Seed|40|Unknown|Seed|0|0|20|65200|None
+446|Poodle Skirt|41|Permanent|Clothing|0|0|0|0|Pants
+447|Poodle Skirt Seed|41|Permanent|Seed|0|0|20|70151|None
+448|Backpack|17|Permanent|Clothing|0|0|0|0|Back
+449|Backpack Seed|17|Permanent|Seed|0|0|20|5423|None
+450|Space Helmet|82|Permanent,Foreground|Clothing|0|0|0|0|Hair
+451|Space Helmet Seed|82|Permanent|Seed|0|0|20|553828|None
+452|Plate Mail|51|Permanent|Clothing|0|0|0|0|Shirt
+453|Plate Mail Seed|51|Permanent|Seed|0|0|20|134181|None
+454|Venus Guytrap|41|Unknown|Deadly_Block|0|0|6|0|None
+455|Venus Guytrap Seed|41|Unknown|Seed|0|0|20|70151|None
+456|Dice Block|70|Wrenchable|Random_Block|0|0|10|0|None
+457|Dice Block Seed|70|Unknown|Seed|0|0|20|345100|None
+458|Dresser|14|MultiFacing|Platform|0|0|5|0|None
+459|Dresser Seed|14|Unknown|Seed|0|0|20|3164|None
+460|Table Lamp|24|Wrenchable|Toggleable_Foreground|0|0|6|0|None
+461|Table Lamp Seed|24|Unknown|Seed|0|0|20|14544|None
+462|Fedora|83|Permanent|Clothing|0|0|0|0|Hat
+463|Fedora Seed|83|Permanent|Seed|0|0|20|574277|None
+464|Dame's Fedora|85|Permanent|Clothing|0|0|0|0|Hat
+465|Dame's Fedora Seed|85|Permanent|Seed|0|0|20|616675|None
+466|Pinstripe Suit|82|Permanent|Clothing|0|0|0|0|Shirt
+467|Pinstripe Suit Seed|82|Permanent|Seed|0|0|20|553828|None
+468|Pinstripe Pants|89|Permanent|Clothing|0|0|0|0|Pants
+469|Pinstripe Pants Seed|89|Permanent|Seed|0|0|20|707639|None
+470|Cigar|81|Permanent|Clothing|0|0|0|0|Face
+471|Cigar Seed|81|Permanent|Seed|0|0|20|533871|None
+472|Tommygun|87|NoSelf,Permanent|Clothing|0|0|0|0|Hand
+473|Tommygun Seed|87|Permanent|Seed|0|0|20|661113|None
+474|Flapper Headband|82|Permanent|Clothing|0|0|0|0|Hair
+475|Flapper Headband Seed|82|Permanent|Seed|0|0|20|553828|None
+476|Flapper Dress|80|Permanent|Clothing|0|0|0|0|Shirt
+477|Flapper Dress Seed|80|Permanent|Seed|0|0|20|514400|None
+478|Art Deco Block|83|Unknown|Foreground_Block|0|0|5|0|None
+479|Art Deco Block Seed|83|Unknown|Seed|0|0|20|574277|None
+480|Victrola|94|Wrenchable|Toggleable_Foreground|0|0|6|0|None
+481|Victrola Seed|94|Unknown|Seed|0|0|20|833404|None
+482|Big Old Sideways Arrow|13|MultiFacing|Foreground_Block|0|0|4|0|None
+483|Big Old Sideways Arrow Seed|13|Unknown|Seed|0|0|20|2587|None
+484|Big Old Up Arrow|22|Unknown|Foreground_Block|0|0|4|0|None
+485|Big Old Up Arrow Seed|22|Unknown|Seed|0|0|20|11308|None
+486|Big Old Down Arrow|13|Unknown|Foreground_Block|0|0|4|0|None
+487|Big Old Down Arrow Seed|13|Unknown|Seed|0|0|20|2587|None
+488|Blue Wristband|34|Permanent|Clothing|0|0|0|0|Hand
+489|Blue Wristband Seed|34|Permanent|Seed|0|0|20|40324|None
+490|Blue Headband|73|Permanent,Foreground|Clothing|0|0|0|0|Face
+491|Blue Headband Seed|73|Permanent|Seed|0|0|20|391207|None
+492|Red Sportsball Jersey|28|Permanent|Clothing|0|0|0|0|Shirt
+493|Red Sportsball Jersey Seed|28|Permanent|Seed|0|0|20|22792|None
+494|Red Sweatpants|19|Permanent|Clothing|0|0|0|0|Pants
+495|Red Sweatpants Seed|19|Permanent|Seed|0|0|20|7429|None
+496|Air Robinsons|47|Permanent|Clothing|0|0|0|0|Feet
+497|Air Robinsons Seed|47|Permanent|Seed|0|0|20|105233|None
+498|Hippie Sandals|23|Permanent|Clothing|0|0|0|0|Feet
+499|Hippie Sandals Seed|23|Permanent|Seed|0|0|20|12857|None
+500|Pastel Pants|4|Permanent|Clothing|0|0|0|0|Pants
+501|Pastel Pants Seed|4|Permanent|Seed|0|0|20|184|None
+502|Pastel Suit|11|Permanent|Clothing|0|0|0|0|Shirt
+503|Pastel Suit Seed|11|Permanent|Seed|0|0|20|1661|None
+504|Bunny Mask|8|Permanent|Clothing|0|0|0|0|Face
+505|Bunny Mask Seed|8|Permanent|Seed|0|0|20|752|None
+506|Bunny Ears|16|Permanent|Clothing|0|0|0|0|Hat
+507|Bunny Ears Seed|16|Permanent|Seed|0|0|20|4576|None
+508|Wicker Basket|16|Permanent|Clothing|0|0|0|0|Hand
+509|Wicker Basket Seed|16|Permanent|Seed|0|0|20|4576|None
+510|Pastel Pink Block|5|Unknown|Foreground_Block|0|0|8|0|None
+511|Pastel Pink Block Seed|5|Unknown|Seed|0|0|20|275|None
+512|Pastel Orange Block|10|Unknown|Foreground_Block|0|0|8|0|None
+513|Pastel Orange Block Seed|10|Unknown|Seed|0|0|20|1300|None
+514|Pastel Yellow Block|7|Unknown|Foreground_Block|0|0|8|0|None
+515|Pastel Yellow Block Seed|7|Unknown|Seed|0|0|20|553|None
+516|Pastel Green Block|6|Unknown|Foreground_Block|0|0|8|0|None
+517|Pastel Green Block Seed|6|Unknown|Seed|0|0|20|396|None
+518|Pastel Aqua Block|6|Unknown|Foreground_Block|0|0|8|0|None
+519|Pastel Aqua Block Seed|6|Unknown|Seed|0|0|20|396|None
+520|Pastel Blue Block|16|Unknown|Foreground_Block|0|0|8|0|None
+521|Pastel Blue Block Seed|16|Unknown|Seed|0|0|20|4576|None
+522|Pastel Purple Block|20|Unknown|Foreground_Block|0|0|12|0|None
+523|Pastel Purple Block Seed|20|Unknown|Seed|0|0|20|8600|None
+524|Bunny Tail|10|Permanent|Clothing|0|0|0|0|Back
+525|Bunny Tail Seed|10|Permanent|Seed|0|0|20|1300|None
+526|Pinball Bumper|53|Unknown|Bouncy|0|0|7|0|None
+527|Pinball Bumper Seed|53|Unknown|Seed|0|0|20|150467|None
+528|Lucky Clover|999|NoSeed,Permanent|Consummable|0|0|3|0|None
+529|Lucky Clover Seed|999|Permanent|Seed|0|0|20|3600|None
+530|Orange Beard|999|NoSeed,Permanent|Clothing|0|0|0|0|Face
+531|Orange Beard Seed|999|Permanent|Seed|0|0|20|3600|None
+532|Leprechaun Hat|999|NoSeed,Permanent|Clothing|0|0|0|0|Hat
+533|Leprechaun Hat Seed|999|Permanent|Seed|0|0|20|3600|None
+534|Green Pants|999|NoSeed,Permanent|Clothing|0|0|0|0|Pants
+535|Green Pants Seed|999|Permanent|Seed|0|0|20|3600|None
+536|Leprechaun Suit|999|NoSeed,Permanent|Clothing|0|0|0|0|Shirt
+537|Leprechaun Suit Seed|999|Permanent|Seed|0|0|20|3600|None
+538|Leprechaun Shoes|999|NoSeed,Permanent|Clothing|0|0|0|0|Feet
+539|Leprechaun Shoes Seed|999|Permanent|Seed|0|0|20|3600|None
+540|Green Beer|999|NoSeed,Permanent|Consummable|0|0|3|0|None
+541|Green Beer Seed|999|Permanent|Seed|0|0|20|3600|None
+542|Pot O' Gold|200|NoSeed,Permanent,MultiFacing,Foreground|Treasure|0|0|10|0|None
+543|Pot O' Gold Seed|200|Permanent|Seed|0|0|20|8006000|None
+544|Orange Portal|78|NoShadow,Wrenchable|Door|0|0|5|0|None
+545|Orange Portal Seed|78|Unknown|Seed|0|0|20|476892|None
+546|Blue Portal|84|NoShadow,Wrenchable|Door|0|0|5|0|None
+547|Blue Portal Seed|84|Unknown|Seed|0|0|20|595224|None
+548|Glass Block|7|Unknown|Foreground_Block|0|0|3|0|None
+549|Glass Block Seed|7|Unknown|Seed|0|0|20|553|None
+550|Bookcase|42|MultiFacing|Platform|0|0|4|0|None
+551|Bookcase Seed|42|Unknown|Seed|0|0|20|75348|None
+552|Secret Passage|15|Wrenchable,MultiFacing|Gateway|0|0|5|0|None
+553|Secret Passage Seed|15|Unknown|Seed|0|0|20|3825|None
+554|Ladder|26|Unknown|Platform|0|0|4|0|None
+555|Ladder Seed|26|Unknown|Seed|0|0|20|18356|None
+556|Grey Wallpaper|42|Unknown|Background_Block|0|0|3|0|None
+557|Grey Wallpaper Seed|42|Unknown|Seed|0|0|20|75348|None
+558|Red Wallpaper|42|Unknown|Background_Block|0|0|3|0|None
+559|Red Wallpaper Seed|42|Unknown|Seed|0|0|20|75348|None
+560|Orange Wallpaper|47|Unknown|Background_Block|0|0|3|0|None
+561|Orange Wallpaper Seed|47|Unknown|Seed|0|0|20|105233|None
+562|Yellow Wallpaper|44|Unknown|Background_Block|0|0|3|0|None
+563|Yellow Wallpaper Seed|44|Unknown|Seed|0|0|20|86504|None
+564|Green Wallpaper|43|Unknown|Background_Block|0|0|3|0|None
+565|Green Wallpaper Seed|43|Unknown|Seed|0|0|20|80797|None
+566|Aqua Wallpaper|43|Unknown|Background_Block|0|0|3|0|None
+567|Aqua Wallpaper Seed|43|Unknown|Seed|0|0|20|80797|None
+568|Blue Wallpaper|53|Unknown|Background_Block|0|0|3|0|None
+569|Blue Wallpaper Seed|53|Unknown|Seed|0|0|20|150467|None
+570|Purple Wallpaper|57|Unknown|Background_Block|0|0|3|0|None
+571|Purple Wallpaper Seed|57|Unknown|Seed|0|0|20|186903|None
+572|Phonecats Hat|999|NoSeed,Permanent|Clothing|0|0|0|0|Hat
+573|Phonecats Hat Seed|999|Permanent|Seed|0|0|20|3600|None
+574|Turtle Hat|999|NoSeed,Permanent|Clothing|0|0|0|0|Hat
+575|Turtle Hat Seed|999|Permanent|Seed|0|0|20|3600|None
+576|Baneful Mask|58|Permanent|Clothing|0|0|0|0|Face
+577|Baneful Mask Seed|58|Permanent|Seed|0|0|20|196852|None
+578|Rollback Plaque|1|Permanent|Foreground_Block|0|0|10|0|None
+579|Rollback Plaque Seed|1|Permanent|Seed|0|0|20|31|None
+580|Happy Joy Plaque|3|Unknown|Foreground_Block|0|0|4|0|None
+581|Happy Joy Plaque Seed|3|Unknown|Seed|0|0|20|117|None
+582|Wizard Hat|65|Permanent,RandomGrow|Clothing|0|0|0|0|Hat
+583|Wizard Hat Seed|65|Permanent,RandomGrow|Seed|0|0|20|276575|None
+584|Witch Hat|65|Permanent,RandomGrow|Clothing|0|0|0|0|Hat
+585|Witch Hat Seed|65|Permanent,RandomGrow|Seed|0|0|20|276575|None
+586|Merlin Hat|65|Permanent,RandomGrow|Clothing|0|0|0|0|Hat
+587|Merlin Hat Seed|65|Permanent,RandomGrow|Seed|0|0|20|276575|None
+588|Funk Wizard Hat|65|Permanent,RandomGrow|Clothing|0|0|0|0|Hat
+589|Funk Wizard Hat Seed|65|Permanent,RandomGrow|Seed|0|0|20|276575|None
+590|Cursed Wizard Hat|65|Permanent,RandomGrow|Clothing|0|0|0|0|Hat
+591|Cursed Wizard Hat Seed|65|Permanent,RandomGrow|Seed|0|0|20|276575|None
+592|Tiny Horsie|999|NoSeed,Permanent|Clothing|0|0|0|0|Feet
+593|Tiny Horsie Seed|999|Permanent|Seed|0|0|20|3600|None
+594|Elvish Longbow|39|NoSelf,Permanent|Clothing|0|0|0|0|Hand
+595|Elvish Longbow Seed|39|Permanent|Seed|0|0|20|60489|None
+596|Treasure Chest|55|MultiFacing|Chest|0|0|10|0|None
+597|Treasure Chest Seed|55|Unknown|Seed|0|0|20|168025|None
+598|Dragon Gate|57|Wrenchable|Switch_Block|0|0|15|0|None
+599|Dragon Gate Seed|57|Unknown|Seed|0|0|20|186903|None
+600|Wizard's Robe|60|Permanent|Clothing|0|0|0|0|Shirt
+601|Wizard's Robe Seed|60|Permanent|Seed|0|0|20|217800|None
+602|GrowBeats Headphones|69|Permanent,Foreground|Clothing|0|0|0|0|Face
+603|GrowBeats Headphones Seed|69|Permanent|Seed|0|0|20|330579|None
+604|Golden Sword|58|Permanent|Clothing|0|0|0|0|Hand
+605|Golden Sword Seed|58|Permanent|Seed|0|0|20|196852|None
+606|Barrel|11|Unknown|Foreground_Block|0|0|3|0|None
+607|Barrel Seed|11|Unknown|Seed|0|0|20|1661|None
+608|Tavern Sign|85|Wrenchable|Sign|0|0|5|0|None
+609|Tavern Sign Seed|85|Unknown|Seed|0|0|20|616675|None
+610|Bunny Egg|1|NoSeed,Permanent|Magic_Egg|0|0|8|0|None
+611|Magic Egg|1|Permanent|Seed|0|0|20|31|None
+612|Lattice Background|15|Unknown|Background_Block|0|0|3|0|None
+613|Lattice Background Seed|15|Unknown|Seed|0|0|20|3825|None
+614|Rotten Egg|6|NoSeed,Permanent|Consummable|0|0|3|0|None
+615|Rotten Egg Seed|6|Permanent|Seed|0|0|20|396|None
+616|Cuddly Bunny|41|NoSeed,Permanent,RandomGrow|Consummable|0|0|3|0|None
+617|Cuddly Bunny Seed|41|Permanent,RandomGrow|Seed|0|0|20|70151|None
+618|Psychotic Bunny|41|NoSeed,Permanent,RandomGrow|Consummable|0|0|3|0|None
+619|Psychotic Bunny Seed|41|Permanent,RandomGrow|Seed|0|0|20|70151|None
+620|Copper Plumbing|27|Unknown|Background_Block|0|0|6|0|None
+621|Copper Plumbing Seed|27|Unknown|Seed|0|0|20|20493|None
+622|Steel Girder|50|Unknown|Platform|0|0|3|0|None
+623|Steel Girder Seed|50|Unknown|Seed|0|0|20|126500|None
+624|Pinball Sproinger|56|Unknown|Trampoline_Block|0|0|3|0|None
+625|Pinball Sproinger Seed|56|Unknown|Seed|0|0|20|177296|None
+626|Tangram Block A|15|RandomGrow|Foreground_Block|0|0|7|0|None
+627|Tangram Block A Seed|15|RandomGrow|Seed|0|0|20|3825|None
+628|Tangram Block B|15|RandomGrow|Foreground_Block|0|0|7|0|None
+629|Tangram Block B Seed|15|RandomGrow|Seed|0|0|20|3825|None
+630|Tangram Block C|15|RandomGrow|Foreground_Block|0|0|7|0|None
+631|Tangram Block C Seed|15|RandomGrow|Seed|0|0|20|3825|None
+632|Tangram Block D|15|RandomGrow|Foreground_Block|0|0|7|0|None
+633|Tangram Block D Seed|15|RandomGrow|Seed|0|0|20|3825|None
+634|Tangram Block E|15|RandomGrow|Foreground_Block|0|0|7|0|None
+635|Tangram Block E Seed|15|RandomGrow|Seed|0|0|20|3825|None
+636|Tangram Block F|15|RandomGrow|Foreground_Block|0|0|7|0|None
+637|Tangram Block F Seed|15|RandomGrow|Seed|0|0|20|3825|None
+638|Tangram Block G|15|RandomGrow|Foreground_Block|0|0|7|0|None
+639|Tangram Block G Seed|15|RandomGrow|Seed|0|0|20|3825|None
+640|Tangram Block H|15|RandomGrow|Foreground_Block|0|0|7|0|None
+641|Tangram Block H Seed|15|RandomGrow|Seed|0|0|20|3825|None
+642|Tangram Block I|15|RandomGrow|Foreground_Block|0|0|7|0|None
+643|Tangram Block I Seed|15|RandomGrow|Seed|0|0|20|3825|None
+644|Tangram Block J|15|RandomGrow|Foreground_Block|0|0|7|0|None
+645|Tangram Block J Seed|15|RandomGrow|Seed|0|0|20|3825|None
+646|Tangram Block K|15|RandomGrow|Foreground_Block|0|0|7|0|None
+647|Tangram Block K Seed|15|RandomGrow|Seed|0|0|20|3825|None
+648|Tangram Block L|15|RandomGrow|Foreground_Block|0|0|7|0|None
+649|Tangram Block L Seed|15|RandomGrow|Seed|0|0|20|3825|None
+650|Chalkboard|52|Unknown|Background_Block|0|0|4|0|None
+651|Chalkboard Seed|52|Unknown|Seed|0|0|20|142168|None
+652|School Desk|20|MultiFacing|Platform|0|0|4|0|None
+653|School Desk Seed|20|Unknown|Seed|0|0|20|8600|None
+654|Red Bricks|7|Unknown|Foreground_Block|0|0|5|0|None
+655|Red Bricks Seed|7|Unknown|Seed|0|0|20|553|None
+656|Mailbox|57|Wrenchable,MultiFacing|Mailbox|0|0|4|0|None
+657|Mailbox Seed|57|Unknown|Seed|0|0|20|186903|None
+658|Bulletin Board|67|Wrenchable|Board|0|0|4|0|None
+659|Bulletin Board Seed|67|Unknown|Seed|0|0|20|302773|None
+660|Letter|1|Dropless,NoSeed,Permanent|Board|0|0|4|0|None
+661|Letter Seed|1|Permanent|Seed|0|0|20|31|None
+662|Baseball Bat|12|NoSelf,Permanent|Clothing|0|0|0|0|Hand
+663|Baseball Bat Seed|12|Permanent|Seed|0|0|20|2088|None
+664|Swiss Cheese Block|21|Unknown|Foreground_Block|0|0|5|0|None
+665|Swiss Cheese Block Seed|21|Unknown|Seed|0|0|20|9891|None
+666|Granite Block|23|Unknown|Foreground_Block|0|0|5|0|None
+667|Granite Block Seed|23|Unknown|Seed|0|0|20|12857|None
+668|Marble Block|46|Unknown|Foreground_Block|0|0|7|0|None
+669|Marble Block Seed|46|Unknown|Seed|0|0|20|98716|None
+670|Pencil|8|Unknown|Foreground_Block|0|0|3|0|None
+671|Pencil Seed|8|Unknown|Seed|0|0|20|752|None
+672|Growtopia Lunchbox|999|NoSeed,Permanent|Clothing|0|0|0|0|Hand
+673|Growtopia Lunchbox Seed|999|Permanent|Seed|0|0|20|3600|None
+674|Grey Hair Bun|19|Permanent|Clothing|0|0|0|0|Hair
+675|Grey Hair Bun Seed|19|Permanent|Seed|0|0|20|7429|None
+676|Apple|19|Unknown|Consummable|0|0|3|0|None
+677|Apple Seed|19|Unknown|Seed|0|0|20|7429|None
+678|Crimson Eagle Wings|95|NoSeed,Permanent|Clothing|0|0|0|0|Back
+679|Crimson Eagle Wings Seed|95|Permanent|Seed|0|0|20|860225|None
+680|Grimstone|7|Unknown|Foreground_Block|0|0|5|0|None
+681|Grimstone Seed|7|Unknown|Seed|0|0|20|553|None
+682|Blackrock Wall|42|Unknown|Background_Block|0|0|5|0|None
+683|Blackrock Wall Seed|42|Unknown|Seed|0|0|20|75348|None
+684|Iron Bars|26|Unknown|Foreground_Block|0|0|5|0|None
+685|Iron Bars Seed|26|Unknown|Seed|0|0|20|18356|None
+686|Jail Door|42|Wrenchable|Gateway|0|0|5|0|None
+687|Jail Door Seed|42|Unknown|Seed|0|0|20|75348|None
+688|Skeleton|72|MultiFacing|Foreground_Block|0|0|3|0|None
+689|Skeleton Seed|72|Unknown|Seed|0|0|20|375408|None
+690|Headsman's Axe|65|Permanent|Clothing|0|0|0|0|Hand
+691|Headsman's Axe Seed|65|Permanent|Seed|0|0|20|276575|None
+692|Iron Mask|999|NoSeed,Permanent|Clothing|0|0|0|0|Face
+693|Iron Mask Seed|999|Permanent|Seed|0|0|20|3600|None
+694|Worthless Rags|5|Permanent|Clothing|0|0|0|0|Shirt
+695|Worthless Rags Seed|5|Permanent|Seed|0|0|20|275|None
+696|Torch|3|Wrenchable|Toggleable_Foreground|0|0|6|0|None
+697|Torch Seed|3|Unknown|Seed|0|0|20|117|None
+698|Meow Ears|999|NoSeed,Permanent,Untradable|Clothing|0|0|0|0|Hair
+699|Meow Ears Seed|999|Permanent|Seed|0|0|20|3600|None
+700|Sombrero|999|NoSeed,Permanent|Clothing|0|0|0|0|Hat
+701|Sombrero Seed|999|Permanent|Seed|0|0|20|3600|None
+702|Poncho|999|NoSeed,Permanent|Clothing|0|0|0|0|Shirt
+703|Poncho Seed|999|Permanent|Seed|0|0|20|3600|None
+704|Desperado Mustache|999|NoSeed,Permanent|Clothing|0|0|0|0|Face
+705|Desperado Mustache Seed|999|Permanent|Seed|0|0|20|3600|None
+706|Flamenco Dress|999|NoSeed,Permanent|Clothing|0|0|0|0|Shirt
+707|Flamenco Dress Seed|999|Permanent|Seed|0|0|20|3600|None
+708|Hibiscus Hair|999|NoSeed,Permanent|Clothing|0|0|0|0|Hair
+709|Hibiscus Hair Seed|999|Permanent|Seed|0|0|20|3600|None
+710|Fiesta Sombrero|999|NoSeed,Permanent|Clothing|0|0|0|0|Hat
+711|Fiesta Sombrero Seed|999|Permanent|Seed|0|0|20|3600|None
+712|Habanero Pepper|999|NoSeed,Permanent|Consummable|0|0|3|0|None
+713|Habanero Pepper Seed|999|Permanent|Seed|0|0|20|3600|None
+714|Olmec Head|999|Wrenchable,NoSeed,Permanent,MultiFacing|Toggleable_Foreground|0|0|10|0|None
+715|Olmec Head Seed|999|Permanent|Seed|0|0|20|3600|None
+716|Adobe Block|999|NoSeed,Permanent|Foreground_Block|0|0|5|0|None
+717|Adobe Block Seed|999|Permanent|Seed|0|0|20|3600|None
+718|Ultra Pinata|999|NoSeed,Permanent,Public|Event_Mystery_Block|0|0|42|0|None
+719|Ultra Pinata Seed|999|Permanent|Seed|0|0|20|3600|None
+720|Pinata|999|NoSeed,Permanent,Public|Event_Mystery_Block|0|0|30|0|None
+721|Pinata Seed|999|Permanent|Seed|0|0|20|3600|None
+722|Pinata Whistle|999|NoSeed,Permanent|Consummable|0|0|3|0|None
+723|Pinata Whistle Seed|999|Permanent|Seed|0|0|20|3600|None
+724|Stinky Bucket|32|Permanent|Clothing|0|0|0|0|Hat
+725|Stinky Bucket Seed|32|Permanent|Seed|0|0|20|33728|None
+726|Acid|35|Unknown|Unknown|0|0|4|0|None
+727|Acid Seed|35|Unknown|Seed|0|0|20|43925|None
+728|Clouds|35|Unknown|Foreground_Block|0|0|4|0|None
+729|Clouds Seed|35|Unknown|Seed|0|0|20|43925|None
+730|Hammer Pants|72|Permanent|Clothing|0|0|0|0|Pants
+731|Hammer Pants Seed|72|Permanent|Seed|0|0|20|375408|None
+732|Ban Wand|999|NoSeed,Permanent|Consummable|0|0|20|0|None
+733|Ban Wand Seed|999|Unknown|Seed|0|0|20|3600|None
+734|Cybernetic Arm|89|Permanent|Clothing|0|0|0|0|Hand
+735|Cybernetic Arm Seed|89|Permanent|Seed|0|0|20|707639|None
+736|Play Wings|999|NoSeed,Permanent,Untradable|Clothing|0|0|0|0|Back
+737|Play Wings Seed|999|Permanent|Seed|0|0|20|3600|None
+738|Lokster Hair|999|NoSeed,Permanent,Untradable|Clothing|0|0|0|0|Hair
+739|Lokster Hair Seed|999|Permanent|Seed|0|0|20|3600|None
+740|Neon Lights|26|Unknown|Background_Block|0|0|3|0|None
+741|Neon Lights Seed|26|Unknown|Seed|0|0|20|18356|None
+742|Card Block - Spade|33|RandomGrow|Foreground_Block|0|0|7|0|None
+743|Card Block - Spade Seed|33|RandomGrow|Seed|0|0|20|36927|None
+744|Card Block - Club|33|RandomGrow|Foreground_Block|0|0|7|0|None
+745|Card Block - Club Seed|33|RandomGrow|Seed|0|0|20|36927|None
+746|Card Block - Heart|33|RandomGrow|Foreground_Block|0|0|7|0|None
+747|Card Block - Heart Seed|33|RandomGrow|Seed|0|0|20|36927|None
+748|Card Block - Diamond|33|RandomGrow|Foreground_Block|0|0|7|0|None
+749|Card Block - Diamond Seed|33|RandomGrow|Seed|0|0|20|36927|None
+750|Rabbit's Foot|999|NoSeed,Permanent|Consummable|0|0|3|0|None
+751|Rabbit's Foot Seed|999|Unknown|Seed|0|0|20|3600|None
+752|Flipping Coin|54|NoSeed,Permanent|Consummable|0|0|3|0|None
+753|Flipping Coin Seed|54|Permanent|Seed|0|0|20|159084|None
+754|Gambler's Visor|12|Permanent,Foreground|Clothing|0|0|0|0|Face
+755|Gambler's Visor Seed|12|Permanent|Seed|0|0|20|2088|None
+756|Slot Machine|95|MultiFacing|SFX_Foreground|0|0|15|0|None
+757|Slot Machine Seed|95|Unknown|Seed|0|0|20|860225|None
+758|Roulette Wheel|51|Unknown|SFX_Foreground|0|0|15|0|None
+759|Roulette Wheel Seed|51|Unknown|Seed|0|0|20|134181|None
+760|Pleiadian Star Ship|999|NoSeed,Permanent|Clothing|0|0|0|0|Feet
+761|Pleiadian Star Ship Seed|999|Permanent|Seed|0|0|20|3600|None
+762|Password Door|77|Wrenchable|Door|0|0|5|0|None
+763|Password Door Seed|77|Unknown|Seed|0|0|20|458843|None
+764|g-Virus|999|NoSeed,Permanent|Consummable|0|0|20|0|None
+765|g-Virus Seed|999|Permanent|Seed|0|0|20|3600|None
+766|Little Red Corvette|999|Dropless,NoSeed,Permanent|Clothing|0|0|0|0|Feet
+767|Little Red Corvette Seed|999|Permanent|Seed|0|0|20|3600|None
+768|Sawed-Off Shotgun|999|NoSelf,NoSeed,Permanent|Clothing|0|0|0|0|Hand
+769|Sawed-Off Shotgun Seed|999|Permanent|Seed|0|0|20|3600|None
+770|Combover|26|Permanent|Clothing|0|0|0|0|Hair
+771|Combover Seed|26|Permanent|Seed|0|0|20|18356|None
+772|Lab Coat|75|Permanent|Clothing|0|0|0|0|Shirt
+773|Lab Coat Seed|75|Permanent|Seed|0|0|20|424125|None
+774|Traffic Barricade|50|MultiFacing|Animated_Foreground_Block|0|0|5|0|None
+775|Traffic Barricade Seed|50|Unknown|Seed|0|0|20|126500|None
+776|Toxic Waste Barrel|46|Unknown|Foreground_Block|0|0|6|0|None
+777|Toxic Waste Barrel Seed|46|Unknown|Seed|0|0|20|98716|None
+778|Toxic Waste|999|NoSeed,Permanent,Public|Spike|0|0|1|0|None
+779|Toxic Waste Seed|999|Permanent|Seed|0|0|20|3600|None
+780|Biohazard Sign|14|Unknown|Foreground_Block|0|0|4|0|None
+781|Biohazard Sign Seed|14|Unknown|Seed|0|0|20|3164|None
+782|Antidote|31|NoSeed,Permanent|Consummable|0|0|3|0|None
+783|Antidote Seed|31|Permanent|Seed|0|0|20|30721|None
+784|Tombstone|95|Wrenchable|Sign|0|0|7|0|None
+785|Tombstone Seed|95|Unknown|Seed|0|0|20|860225|None
+786|Military Radio|36|Wrenchable,MultiFacing|Toggleable_Foreground|0|0|10|0|None
+787|Military Radio Seed|36|Unknown|Seed|0|0|20|47736|None
+788|Zombie-Stompin' Boots|15|Permanent|Clothing|0|0|0|0|Feet
+789|Zombie-Stompin' Boots Seed|15|Permanent|Seed|0|0|20|3825|None
+790|Combat Vest|86|Permanent|Clothing|0|0|0|0|Shirt
+791|Combat Vest Seed|86|Permanent|Seed|0|0|20|638636|None
+792|Jens Beard|999|NoSeed,Permanent,Untradable|Clothing|0|0|0|0|Face
+793|Jens Beard Seed|999|Permanent|Seed|0|0|20|3600|None
+794|Showgirl Headdress|34|Permanent|Clothing|0|0|0|0|Hat
+795|Showgirl Headdress Seed|34|Permanent|Seed|0|0|20|40324|None
+796|Showgirl Top|48|Permanent|Clothing|0|0|0|0|Shirt
+797|Showgirl Top Seed|48|Permanent|Seed|0|0|20|112032|None
+798|Showgirl Leggings|33|Permanent|Clothing|0|0|0|0|Pants
+799|Showgirl Leggings Seed|33|Permanent|Seed|0|0|20|36927|None
+800|Zeta Reticulant Mask|78|Permanent|Clothing|0|0|0|0|Face
+801|Zeta Reticulant Mask Seed|78|Permanent|Seed|0|0|20|476892|None
+802|Red Growsaber|126|Permanent,RandomGrow|Clothing|0|0|0|0|Hand
+803|Red Growsaber Seed|126|Permanent,RandomGrow|Seed|0|0|20|2004156|None
+804|Black Growsaber|126|Permanent,RandomGrow|Clothing|0|0|0|0|Hand
+805|Black Growsaber Seed|126|Permanent,RandomGrow|Seed|0|0|20|2004156|None
+806|Green Growsaber|126|Permanent,RandomGrow|Clothing|0|0|0|0|Hand
+807|Green Growsaber Seed|126|Permanent,RandomGrow|Seed|0|0|20|2004156|None
+808|Blue Growsaber|126|Permanent,RandomGrow|Clothing|0|0|0|0|Hand
+809|Blue Growsaber Seed|126|Permanent,RandomGrow|Seed|0|0|20|2004156|None
+810|Flamesaber|126|Permanent,RandomGrow|Clothing|0|0|0|0|Hand
+811|Flamesaber Seed|126|Permanent,RandomGrow|Seed|0|0|20|2004156|None
+812|Double Growsaber|126|Permanent,RandomGrow|Clothing|0|0|0|0|Hand
+813|Double Growsaber Seed|126|Permanent,RandomGrow|Seed|0|0|20|2004156|None
+814|Solorien On Fire|999|NoSeed,Permanent,Untradable|Clothing|0|0|0|0|Shirt
+815|Solorien On Fire Seed|999|Permanent|Seed|0|0|20|3600|None
+816|Flaming Skull Mask|75|Permanent|Clothing|0|0|0|0|Hair
+817|Flaming Skull Mask Seed|75|Permanent|Seed|0|0|20|424125|None
+818|Ripper Wings|96|Permanent|Clothing|0|0|0|0|Back
+819|Ripper Wings Seed|96|Permanent|Seed|0|0|20|887616|None
+820|Seil's Magic Orbs|999|NoSeed,Permanent,Untradable|Clothing|0|0|0|0|Back
+821|Seil's Magic Orbs Seed|999|Permanent|Seed|0|0|20|3600|None
+822|Water Bucket|12|Unknown|Consummable|0|0|3|0|None
+823|Water Bucket Seed|12|Unknown|Seed|0|0|20|2088|None
+824|Refrigerator|85|MultiFacing|Chest|0|0|10|0|None
+825|Refrigerator Seed|85|Unknown|Seed|0|0|20|616675|None
+826|Emerald Block|135|Unknown|Foreground_Block|0|0|15|0|None
+827|Emerald Block Seed|135|Unknown|Seed|0|0|20|2464425|None
+828|Ruby Block|123|Unknown|Foreground_Block|0|0|15|0|None
+829|Ruby Block Seed|123|Unknown|Seed|0|0|20|1864557|None
+830|Beach Blast|999|NoSeed,Permanent|Consummable|0|0|3|0|None
+831|Beach Blast Seed|999|Permanent|Seed|0|0|20|3600|None
+832|Coral|22|Unknown|Foreground_Block|0|0|10|0|None
+833|Coral Seed|22|Unknown|Seed|0|0|20|11308|None
+834|Fireworks|999|NoSeed,Permanent|Consummable|0|0|3|0|None
+835|Fireworks Seed|999|Permanent|Seed|0|0|20|3600|None
+836|Summer Surprise|999|NoSeed,Permanent,Public|Event_Mystery_Block|0|0|20|0|None
+837|Summer Surprise Seed|999|Permanent|Seed|0|0|20|3600|None
+838|Women's Swimsuit|999|NoSeed,Permanent|Clothing|0|0|0|0|Pants
+839|Women's Swimsuit Seed|999|Permanent|Seed|0|0|20|3600|None
+840|Men's Swimsuit|999|NoSeed,Permanent|Clothing|0|0|0|0|Pants
+841|Men's Swimsuit Seed|999|Permanent|Seed|0|0|20|3600|None
+842|Hula Bobblehead|999|Wrenchable,NoSeed,Permanent,MultiFacing|Toggleable_Foreground|0|0|10|0|None
+843|Hula Bobblehead Seed|999|Permanent|Seed|0|0|20|3600|None
+844|Swim Fins|999|NoSeed,Permanent|Clothing|0|0|0|0|Feet
+845|Swim Fins Seed|999|Permanent|Seed|0|0|20|3600|None
+846|Seaweed|21|MultiFacing|Foreground_Block|0|0|3|0|None
+847|Seaweed Seed|21|Unknown|Seed|0|0|20|9891|None
+848|Beach Umbrella|999|NoSeed,Permanent,MultiFacing|Foreground_Block|0|0|6|0|None
+849|Beach Umbrella Seed|999|Permanent|Seed|0|0|20|3600|None
+850|Ocean Rock|1|Unknown|Background_Block|0|0|3|0|None
+851|Ocean Rock Seed|1|Unknown|Seed|0|0|20|31|None
+852|Barky's Mask|21|Permanent|Clothing|0|0|0|0|Hair
+853|Barky's Mask Seed|21|Permanent|Seed|0|0|20|9891|None
+854|Palm Tree|28|MultiFacing|Foreground_Block|0|0|4|0|None
+855|Palm Tree Seed|28|Unknown|Seed|0|0|20|22792|None
+856|Garbage|1|Public|Foreground_Block|0|0|3|0|None
+857|Garbage Seed|1|Unknown|Seed|0|0|20|31|None
+858|Screen Door|17|Wrenchable|Door|0|0|5|0|None
+859|Screen Door Seed|17|Unknown|Seed|0|0|20|5423|None
+860|Wrought-Iron Fence|24|Foreground|Foreground_Block|0|0|4|0|None
+861|Wrought-Iron Fence Seed|24|Unknown|Seed|0|0|20|14544|None
+862|Velvet Rope|40|Unknown|Foreground_Block|0|0|4|0|None
+863|Velvet Rope Seed|40|Unknown|Seed|0|0|20|65200|None
+864|Sproingy Eyes|75|Permanent|Clothing|0|0|0|0|Face
+865|Sproingy Eyes Seed|75|Permanent|Seed|0|0|20|424125|None
+866|Cow|89|MultiFacing|Provider|0|0|6|86400|None
+867|Cow Seed|89|Unknown|Seed|0|0|20|707639|None
+868|Milk|999|NoSeed,Permanent|Consummable|0|0|4|0|None
+869|Milk Seed|999|Permanent|Seed|0|0|20|3600|None
+870|Calf Leash|999|NoSeed,Permanent|Clothing|0|0|0|0|Hand
+871|Calf Leash Seed|999|Permanent|Seed|0|0|20|3600|None
+872|Chicken|58|MultiFacing|Provider|0|0|6|86400|None
+873|Chicken Seed|58|Unknown|Seed|0|0|20|196852|None
+874|Egg|999|NoSeed,Permanent|Consummable|0|0|4|0|None
+875|Egg Seed|999|Permanent|Seed|0|0|20|3600|None
+876|Chick Leash|999|NoSeed,Permanent|Clothing|0|0|0|0|Hand
+877|Chick Leash Seed|999|Permanent|Seed|0|0|20|3600|None
+878|Piglet Leash|999|NoSeed,Permanent|Clothing|0|0|0|0|Hand
+879|Piglet Leash Seed|999|Permanent|Seed|0|0|20|3600|None
+880|Wheat|3|Unknown|Foreground_Block|0|0|2|0|None
+881|Wheat Seed|3|Unknown|Seed|0|0|20|117|None
+882|Butterfly Leash|999|NoSeed,Permanent|Clothing|0|0|0|0|Hand
+883|Butterfly Leash Seed|999|Permanent|Seed|0|0|20|3600|None
+884|Barn Block|7|Unknown|Foreground_Block|0|0|5|0|None
+885|Barn Block Seed|7|Unknown|Seed|0|0|20|553|None
+886|Barn Door|9|Wrenchable,MultiFacing|Door|0|0|5|0|None
+887|Barn Door Seed|9|Unknown|Seed|0|0|20|999|None
+888|Red Wood Wall|8|Unknown|Background_Block|0|0|2|0|None
+889|Red Wood Wall Seed|8|Unknown|Seed|0|0|20|752|None
+890|Straw Hat|54|Permanent|Clothing|0|0|0|0|Hat
+891|Straw Hat Seed|54|Permanent|Seed|0|0|20|159084|None
+892|Overalls|64|Permanent|Clothing|0|0|0|0|Shirt
+893|Overalls Seed|64|Permanent|Seed|0|0|20|264064|None
+894|Pitchfork|27|Permanent|Clothing|0|0|0|0|Hand
+895|Pitchfork Seed|27|Permanent|Seed|0|0|20|20493|None
+896|Farmgirl Hair|46|Permanent|Clothing|0|0|0|0|Hair
+897|Farmgirl Hair Seed|46|Permanent|Seed|0|0|20|98716|None
+898|Dear John Tractor|999|NoSeed,Permanent|Clothing|0|0|0|0|Feet
+899|Dear John Tractor Seed|999|Permanent|Seed|0|0|20|3600|None
+900|Dragon Hand|999|NoSeed,Permanent|Clothing|0|0|0|0|Hand
+901|Dragon Hand Seed|999|Permanent|Seed|0|0|20|3600|None
+902|Shockinator|61|Permanent|Spike|0|0|4|0|None
+903|Shockinator Seed|61|Permanent|Seed|0|0|20|228811|None
+904|Ze Goggles|85|Permanent|Clothing|0|0|0|0|Face
+905|Ze Goggles Seed|85|Permanent|Seed|0|0|20|616675|None
+906|Shocking Hair|36|Permanent|Clothing|0|0|0|0|Hair
+907|Shocking Hair Seed|36|Permanent|Seed|0|0|20|47736|None
+908|Enhanced Intellect|130|Permanent|Clothing|0|0|0|0|Hair
+909|Enhanced Intellect Seed|130|Permanent|Seed|0|0|20|2200900|None
+910|Reanimator Remote|200|NoSeed,Permanent|Clothing|0|0|0|0|Hand
+911|Reanimator Remote Seed|200|Permanent|Seed|0|0|20|8006000|None
+912|Laboratory|99|MultiFacing|Chemical_Combiner|0|0|10|0|None
+913|Laboratory Seed|99|Unknown|Seed|0|0|20|973269|None
+914|Chemical G|1|Permanent|Component|0|0|4|0|None
+915|Chemical G Seed|1|Permanent|Seed|0|0|20|31|None
+916|Chemical R|10|Permanent|Component|0|0|4|0|None
+917|Chemical R Seed|10|Permanent|Seed|0|0|20|1300|None
+918|Chemical P|50|Permanent|Component|0|0|4|0|None
+919|Chemical P Seed|50|Permanent|Seed|0|0|20|126500|None
+920|Chemical B|25|Permanent|Component|0|0|4|0|None
+921|Chemical B Seed|25|Permanent|Seed|0|0|20|16375|None
+922|Mysterious Chemical|90|Permanent|Component|0|0|4|0|None
+923|Mysterious Chemical Seed|90|Permanent|Seed|0|0|20|731700|None
+924|Chemical Y|15|Permanent|Component|0|0|4|0|None
+925|Chemical Y Seed|15|Permanent|Seed|0|0|20|3825|None
+926|Steel Table|41|Permanent|Platform|0|0|3|0|None
+927|Steel Table Seed|41|Permanent|Seed|0|0|20|70151|None
+928|Science Station|82|MultiFacing|Provider|0|0|6|43200|None
+929|Science Station Seed|82|Unknown|Seed|0|0|20|553828|None
+930|Death Ray|999|NoSelf,NoSeed,Permanent|Clothing|0|0|0|0|Hand
+931|Death Ray Seed|999|Permanent|Seed|0|0|20|3600|None
+932|Weather Machine - Sunny|999|Dropless,NoSeed,Permanent,AutoPickup|Weather_Machine|0|0|10|0|None
+933|Weather Machine - Sunny Seed|999|Permanent|Seed|0|0|20|3600|None
+934|Weather Machine - Night|999|Dropless,NoSeed,Permanent,AutoPickup|Weather_Machine|0|0|10|0|None
+935|Weather Machine - Night Seed|999|Permanent|Seed|0|0|20|3600|None
+936|Red Bones|999|NoSeed,Permanent,Untradable|Clothing|0|0|0|0|Face
+937|Red Bones Seed|999|Permanent|Seed|0|0|20|3600|None
+938|Tony's Tiger Mask|999|NoSeed,Permanent,Untradable|Clothing|0|0|0|0|Hat
+939|Tony's Tiger Mask Seed|999|Permanent|Seed|0|0|20|3600|None
+940|Tony's Tiger Suit|999|NoSeed,Permanent,Untradable|Clothing|0|0|0|0|Shirt
+941|Tony's Tiger Suit Seed|999|Permanent|Seed|0|0|20|3600|None
+942|Desert Blast|999|NoSeed,Permanent|Consummable|0|0|3|0|None
+943|Desert Blast Seed|999|Permanent|Seed|0|0|20|3600|None
+944|Boulder|1|Unknown|Foreground_Block|0|0|9|0|None
+945|Boulder Seed|1|Unknown|Seed|0|0|20|31|None
+946|Weather Machine - Arid|999|Dropless,NoSeed,Permanent,AutoPickup|Weather_Machine|0|0|10|0|None
+947|Weather Machine - Arid Seed|999|Permanent|Seed|0|0|20|3600|None
+948|Scoreboard|91|Unknown|Scoreboard|0|0|5|0|None
+949|Scoreboard Seed|91|Unknown|Seed|0|0|20|756301|None
+950|Bread|999|NoSeed,Permanent|Consummable|0|0|4|0|None
+951|Bread Seed|999|Permanent|Seed|0|0|20|3600|None
+952|E-Z Cook Oven|76|MultiFacing|Chemical_Combiner|0|0|10|0|None
+953|E-Z Cook Oven Seed|76|Unknown|Seed|0|0|20|441256|None
+954|Sugar Cane|24|Unknown|Foreground_Block|0|0|2|0|None
+955|Sugar Cane Seed|24|Unknown|Seed|0|0|20|14544|None
+956|Dough|999|NoSeed,Permanent|Component|0|0|4|0|None
+957|Dough Seed|999|Permanent|Seed|0|0|20|3600|None
+958|Blueberry Muffin|999|NoSeed,Permanent|Consummable|0|0|4|0|None
+959|Blueberry Muffin Seed|999|Permanent|Seed|0|0|20|3600|None
+960|Habanero Cheese Bread|999|NoSeed,Permanent|Consummable|0|0|4|0|None
+961|Habanero Cheese Bread Seed|999|Permanent|Seed|0|0|20|3600|None
+962|Tomato|11|Unknown|Consummable|0|0|4|0|None
+963|Tomato Seed|11|Unknown|Seed|0|0|20|1661|None
+964|Pizza|999|NoSeed,Permanent|Consummable|0|0|4|0|None
+965|Pizza Seed|999|Permanent|Seed|0|0|20|3600|None
+966|Apple Pie|999|NoSeed,Permanent|Consummable|0|0|3|0|None
+967|Apple Pie Seed|999|Permanent|Seed|0|0|20|3600|None
+968|Cheeseburger|999|NoSeed,Permanent|Consummable|0|0|3|0|None
+969|Cheeseburger Seed|999|Permanent|Seed|0|0|20|3600|None
+970|Silver Idol|100|NoSeed,Permanent|Foreground_Block|0|0|10|0|None
+971|Silver Idol Seed|100|Permanent|Seed|0|0|20|1003000|None
+972|Ancient Stone Gate|17|Wrenchable|Gateway|0|0|7|0|None
+973|Ancient Stone Gate Seed|17|Unknown|Seed|0|0|20|5423|None
+974|Obelisk|30|Unknown|SFX_Foreground|0|0|10|0|None
+975|Obelisk Seed|30|Unknown|Seed|0|0|20|27900|None
+976|Sungate|100|Wrenchable,Permanent|Sungate|0|0|20|0|None
+977|Sungate Seed|100|Permanent|Seed|0|0|20|1003000|None
+978|Slime|76|Permanent|Slippery_Block|0|0|3|0|None
+979|Slime Seed|76|Permanent|Seed|0|0|20|441256|None
+980|Profile|999|Untradable|Profile|0|0|4|0|None
+981|Profile Seed|999|Unknown|Seed|0|0|20|3600|None
+982|Achievement Block|68|Wrenchable,WorldLock|Achievement_Block|0|0|10|0|None
+983|Achievement Block Seed|68|Unknown|Seed|0|0|20|316472|None
+984|Weather Machine - Rainy City|999|Dropless,NoSeed,Permanent,AutoPickup|Weather_Machine|0|0|10|0|None
+985|Weather Machine - Rainy City Seed|999|Permanent|Seed|0|0|20|3600|None
+986|Street Sign|15|Wrenchable|Sign|0|0|5|0|None
+987|Street Sign Seed|15|Unknown|Seed|0|0|20|3825|None
+988|Gargoyle|16|Unknown|Background_Block|0|0|7|0|None
+989|Gargoyle Seed|16|Unknown|Seed|0|0|20|4576|None
+990|Gothic Building|89|Unknown|Background_Block|0|0|6|0|None
+991|Gothic Building Seed|89|Unknown|Seed|0|0|20|707639|None
+992|Streetlamp|44|Unknown|Background_Block|0|0|3|0|None
+993|Streetlamp Seed|44|Unknown|Seed|0|0|20|86504|None
+994|Sidewalk|11|Unknown|Foreground_Block|0|0|4|0|None
+995|Sidewalk Seed|11|Unknown|Seed|0|0|20|1661|None
+996|Tenement Building|11|Unknown|Background_Block|0|0|3|0|None
+997|Tenement Building Seed|11|Unknown|Seed|0|0|20|1661|None
+998|Fire Escape|76|Unknown|Platform|0|0|3|0|None
+999|Fire Escape Seed|76|Unknown|Seed|0|0|20|441256|None
+1000|Public Lava|999|NoSeed,Permanent,Public|Pain_Block|0|0|1|0|None
+1001|Public Lava Seed|999|Unknown|Seed|0|0|20|3600|None
+1002|Fire Hydrant|54|Unknown|Trampoline_Block|0|0|3|0|None
+1003|Fire Hydrant Seed|54|Unknown|Seed|0|0|20|159084|None
+1004|Hedge|9|Unknown|Foreground_Block|0|0|3|0|None
+1005|Hedge Seed|9|Unknown|Seed|0|0|20|999|None
+1006|Blue Mailbox|72|Wrenchable,MultiFacing|Mailbox|0|0|6|0|None
+1007|Blue Mailbox Seed|72|Unknown|Seed|0|0|20|375408|None
+1008|ATM Machine|999|Dropless,MultiFacing,AutoPickup|Provider|0|0|8|79200|None
+1009|ATM Machine Seed|999|Unknown|Seed|0|0|20|3600|None
+1010|Destructo Ray|999|Dropless,NoSeed,Permanent,Mod,AutoPickup|Clothing|0|0|0|0|Hand
+1011|Destructo Ray Seed|999|Permanent,Mod|Seed|0|0|20|3600|None
+1012|Stick Horse|999|Dropless,NoSeed,Permanent|Clothing|0|0|0|0|Feet
+1013|Stick Horse Seed|999|Permanent|Seed|0|0|20|3600|None
+1014|Tumbleweed Attractor|999|NoSeed,Permanent|Clothing|0|0|0|0|Hand
+1015|Tumbleweed Attractor Seed|999|Permanent|Seed|0|0|20|3600|None
+1016|Six Shooter|999|NoSelf,Permanent|Clothing|0|0|0|0|Hand
+1017|Six Shooter Seed|999|Permanent|Seed|0|0|20|3600|None
+1018|Tiny Appaloosa|999|NoSeed,Permanent|Clothing|0|0|0|0|Feet
+1019|Tiny Appaloosa Seed|999|Permanent|Seed|0|0|20|3600|None
+1020|Parasol|89|Permanent|Clothing|0|0|0|0|Hand
+1021|Parasol Seed|89|Permanent|Seed|0|0|20|707639|None
+1022|Cowboy Hat|23|Permanent|Clothing|0|0|0|0|Hat
+1023|Cowboy Hat Seed|23|Permanent|Seed|0|0|20|12857|None
+1024|War Paint|87|Permanent|Clothing|0|0|0|0|Face
+1025|War Paint Seed|87|Permanent|Seed|0|0|20|661113|None
+1026|Face Bandana|31|Permanent|Clothing|0|0|0|0|Face
+1027|Face Bandana Seed|31|Permanent|Seed|0|0|20|30721|None
+1028|Sheriff's Vest|60|Permanent|Clothing|0|0|0|0|Shirt
+1029|Sheriff's Vest Seed|60|Permanent|Seed|0|0|20|217800|None
+1030|Cowboy Boots|5|Permanent|Clothing|0|0|0|0|Feet
+1031|Cowboy Boots Seed|5|Permanent|Seed|0|0|20|275|None
+1032|Kansas Curls|30|Permanent|Clothing|0|0|0|0|Hair
+1033|Kansas Curls Seed|30|Permanent|Seed|0|0|20|27900|None
+1034|Corset|62|Permanent|Clothing|0|0|0|0|Shirt
+1035|Corset Seed|62|Permanent|Seed|0|0|20|240188|None
+1036|Layer Cake Dress|999|Permanent|Clothing|0|0|0|0|Pants
+1037|Layer Cake Dress Seed|999|Permanent|Seed|0|0|20|3600|None
+1038|Western Building|12|Unknown|Background_Block|0|0|3|0|None
+1039|Western Building Seed|12|Unknown|Seed|0|0|20|2088|None
+1040|Saloon Doors|14|NoShadow,Wrenchable|Door|0|0|4|0|None
+1041|Saloon Doors Seed|14|Unknown|Seed|0|0|20|3164|None
+1042|Western Banner|14|Wrenchable|Sign|0|0|3|0|None
+1043|Western Banner Seed|14|Unknown|Seed|0|0|20|3164|None
+1044|Buffalo|89|MultiFacing|Provider|0|0|6|86400|None
+1045|Buffalo Seed|89|Unknown|Seed|0|0|20|707639|None
+1046|Rustic Fence|20|Foreground|Foreground_Block|0|0|3|0|None
+1047|Rustic Fence Seed|20|Unknown|Seed|0|0|20|8600|None
+1048|Campfire|63|Wrenchable|Toggleable_Foreground|0|0|10|0|None
+1049|Campfire Seed|63|Unknown|Seed|0|0|20|251937|None
+1050|Secret Of Growtopia|24|NoSeed,Permanent|Consummable|0|0|3|0|None
+1051|Secret Of Growtopia Seed|24|Permanent|Seed|0|0|20|14544|None
+1052|Transmog Crystal|87|NoSeed,Permanent|Component|0|0|3|0|None
+1053|Transmog Crystal Seed|87|Permanent|Seed|0|0|20|661113|None
+1054|Chinese Lantern|999|Wrenchable,NoSeed,Permanent|Toggleable_Foreground|0|0|6|0|None
+1055|Chinese Lantern Seed|999|Permanent|Seed|0|0|20|3600|None
+1056|Songpyeon|999|NoSeed,Permanent|Consummable|0|0|3|0|None
+1057|Songpyeon Seed|999|Permanent|Seed|0|0|20|3600|None
+1058|Harmony Mooncake|999|NoSeed,Permanent|Consummable|0|0|3|0|None
+1059|Harmony Mooncake Seed|999|Permanent|Seed|0|0|20|3600|None
+1060|Harvest Moon Blast|999|NoSeed,Permanent|Consummable|0|0|3|0|None
+1061|Harvest Moon Blast Seed|999|Permanent|Seed|0|0|20|3600|None
+1062|Ultra Grow Spray|999|NoSeed,Permanent|Consummable|0|0|30|0|None
+1063|Ultra Grow Spray Seed|999|Permanent|Seed|0|0|20|3600|None
+1064|Scarecrow|999|NoSeed,Permanent,MultiFacing|Foreground_Block|0|0|4|0|None
+1065|Scarecrow Seed|999|Permanent|Seed|0|0|20|3600|None
+1066|Sky Lantern|999|NoSeed,Permanent|Consummable|0|0|30|0|None
+1067|Sky Lantern Seed|999|Permanent|Seed|0|0|20|3600|None
+1068|Hand Scythe|999|NoSeed,Permanent|Clothing|0|0|0|0|Hand
+1069|Hand Scythe Seed|999|Permanent|Seed|0|0|20|3600|None
+1070|Yellow Hanbok Top|999|NoSeed,Permanent|Clothing|0|0|0|0|Shirt
+1071|Yellow Hanbok Top Seed|999|Permanent|Seed|0|0|20|3600|None
+1072|Purple Hanbok Top|999|NoSeed,Permanent|Clothing|0|0|0|0|Shirt
+1073|Purple Hanbok Top Seed|999|Permanent|Seed|0|0|20|3600|None
+1074|Green Hanbok Top|999|NoSeed,Permanent|Clothing|0|0|0|0|Shirt
+1075|Green Hanbok Top Seed|999|Permanent|Seed|0|0|20|3600|None
+1076|Pink Hanbok Skirt|999|NoSeed,Permanent|Clothing|0|0|0|0|Pants
+1077|Pink Hanbok Skirt Seed|999|Permanent|Seed|0|0|20|3600|None
+1078|Blue Hanbok Skirt|999|NoSeed,Permanent|Clothing|0|0|0|0|Pants
+1079|Blue Hanbok Skirt Seed|999|Permanent|Seed|0|0|20|3600|None
+1080|Orange Hanbok Skirt|999|NoSeed,Permanent|Clothing|0|0|0|0|Pants
+1081|Orange Hanbok Skirt Seed|999|Permanent|Seed|0|0|20|3600|None
+1082|Yellow Hanbok Pants|999|NoSeed,Permanent|Clothing|0|0|0|0|Pants
+1083|Yellow Hanbok Pants Seed|999|Permanent|Seed|0|0|20|3600|None
+1084|Purple Hanbok Pants|999|NoSeed,Permanent|Clothing|0|0|0|0|Pants
+1085|Purple Hanbok Pants Seed|999|Permanent|Seed|0|0|20|3600|None
+1086|Green Hanbok Pants|999|NoSeed,Permanent|Clothing|0|0|0|0|Pants
+1087|Green Hanbok Pants Seed|999|Permanent|Seed|0|0|20|3600|None
+1088|Festival Hair Bun|999|NoSeed,Permanent|Clothing|0|0|0|0|Hair
+1089|Festival Hair Bun Seed|999|Permanent|Seed|0|0|20|3600|None
+1090|Gat|999|NoSeed,Permanent|Clothing|0|0|0|0|Hat
+1091|Gat Seed|999|Permanent|Seed|0|0|20|3600|None
+1092|Moon Mask|999|NoSeed,Permanent|Clothing|0|0|0|0|Hat
+1093|Moon Mask Seed|999|Permanent|Seed|0|0|20|3600|None
+1094|Peace Mooncake|999|NoSeed,Permanent|Consummable|0|0|3|0|None
+1095|Peace Mooncake Seed|999|Permanent|Seed|0|0|20|3600|None
+1096|Longevity Mooncake|999|NoSeed,Permanent|Consummable|0|0|3|0|None
+1097|Longevity Mooncake Seed|999|Permanent|Seed|0|0|20|3600|None
+1098|Prosperity Mooncake|999|NoSeed,Permanent|Consummable|0|0|3|0|None
+1099|Prosperity Mooncake Seed|999|Permanent|Seed|0|0|20|3600|None
+1100|Pillar|63|Unknown|Foreground_Block|0|0|5|0|None
+1101|Pillar Seed|63|Unknown|Seed|0|0|20|251937|None
+1102|Sequoia Tree|32|Unknown|Background_Block|0|0|3|0|None
+1103|Sequoia Tree Seed|32|Unknown|Seed|0|0|20|33728|None
+1104|Foliage|18|Foreground|Foreground_Block|0|0|3|0|None
+1105|Foliage Seed|18|Unknown|Seed|0|0|20|6372|None
+1106|Amphora|28|Unknown|Foreground_Block|0|0|3|0|None
+1107|Amphora Seed|28|Unknown|Seed|0|0|20|22792|None
+1108|Potted Daisy|31|Unknown|Foreground_Block|0|0|3|0|None
+1109|Potted Daisy Seed|31|Unknown|Seed|0|0|20|30721|None
+1110|Innie Block|30|Unknown|Foreground_Block|0|0|5|0|None
+1111|Innie Block Seed|30|Unknown|Seed|0|0|20|27900|None
+1112|Outie Block|20|Unknown|Foreground_Block|0|0|5|0|None
+1113|Outie Block Seed|20|Unknown|Seed|0|0|20|8600|None
+1114|Dragon Tail|66|Permanent|Clothing|0|0|0|0|Back
+1115|Dragon Tail Seed|66|Permanent|Seed|0|0|20|289476|None
+1116|Clown Shoes|27|Permanent|Clothing|0|0|0|0|Feet
+1117|Clown Shoes Seed|27|Permanent|Seed|0|0|20|20493|None
+1118|Clown Pants|18|Permanent|Clothing|0|0|0|0|Pants
+1119|Clown Pants Seed|18|Permanent|Seed|0|0|20|6372|None
+1120|Plain White Tee|50|Permanent|Clothing|0|0|0|0|Shirt
+1121|Plain White Tee Seed|50|Permanent|Seed|0|0|20|126500|None
+1122|Clown Nose|14|Permanent|Clothing|0|0|0|0|Face
+1123|Clown Nose Seed|14|Permanent|Seed|0|0|20|3164|None
+1124|Crazy Purple Hair|54|Permanent|Clothing|0|0|0|0|Hair
+1125|Crazy Purple Hair Seed|54|Permanent|Seed|0|0|20|159084|None
+1126|Foam Finger|48|Permanent|Clothing|0|0|0|0|Hand
+1127|Foam Finger Seed|48|Permanent|Seed|0|0|20|112032|None
+1128|Rocket Thruster|98|NoShadow|Pain_Block|0|0|3|0|None
+1129|Rocket Thruster Seed|98|Unknown|Seed|0|0|20|944132|None
+1130|Solar Panel|33|Unknown|Foreground_Block|0|0|5|0|None
+1131|Solar Panel Seed|33|Unknown|Seed|0|0|20|36927|None
+1132|Martian Soil|1|Unknown|Foreground_Block|0|0|3|0|None
+1133|Martian Soil Seed|1|Unknown|Seed|0|0|20|31|None
+1134|Mars Rock|1|Unknown|Foreground_Block|0|0|10|0|None
+1135|Mars Rock Seed|1|Unknown|Seed|0|0|20|31|None
+1136|Mars Blast|999|NoSeed,Permanent|Consummable|0|0|3|0|None
+1137|Mars Blast Seed|999|Permanent|Seed|0|0|20|3600|None
+1138|Martian Tree|2|Unknown|Foreground_Block|0|0|3|0|None
+1139|Martian Tree Seed|2|Unknown|Seed|0|0|20|68|None
+1140|Astronaut Pack|53|Permanent|Clothing|0|0|0|0|Back
+1141|Astronaut Pack Seed|53|Permanent|Seed|0|0|20|150467|None
+1142|Space Suit|50|Permanent|Clothing|0|0|0|0|Shirt
+1143|Space Suit Seed|50|Permanent|Seed|0|0|20|126500|None
+1144|Space Pants|74|Permanent|Clothing|0|0|0|0|Pants
+1145|Space Pants Seed|74|Permanent|Seed|0|0|20|407444|None
+1146|Moon Boots|60|Permanent|Clothing|0|0|0|0|Feet
+1147|Moon Boots Seed|60|Permanent|Seed|0|0|20|217800|None
+1148|Astronaut Helmet|82|Permanent|Clothing|0|0|0|0|Hair
+1149|Astronaut Helmet Seed|82|Permanent|Seed|0|0|20|553828|None
+1150|Zorbnik Leash|999|NoSeed,Permanent|Clothing|0|0|0|0|Hand
+1151|Zorbnik Leash Seed|999|Permanent|Seed|0|0|20|3600|None
+1152|Zorbnik DNA|999|NoSeed,Permanent|Consummable|0|0|3|0|None
+1153|Zorbnik DNA Seed|999|Permanent|Seed|0|0|20|3600|None
+1154|Space Connector|43|Unknown|Background_Block|0|0|5|0|None
+1155|Space Connector Seed|43|Unknown|Seed|0|0|20|80797|None
+1156|White Wallpaper|44|Unknown|Background_Block|0|0|3|0|None
+1157|White Wallpaper Seed|44|Unknown|Seed|0|0|20|86504|None
+1158|Black Wallpaper|42|Unknown|Background_Block|0|0|3|0|None
+1159|Black Wallpaper Seed|42|Unknown|Seed|0|0|20|75348|None
+1160|Porthole|49|Unknown|Background_Block|0|0|5|0|None
+1161|Porthole Seed|49|Unknown|Seed|0|0|20|119119|None
+1162|Forcefield|101|Wrenchable,Permanent|Gateway|0|0|5|0|None
+1163|Forcefield Seed|101|Permanent|Seed|0|0|20|1033331|None
+1164|Compu Panel|95|Unknown|Animated_Foreground_Block|0|0|6|0|None
+1165|Compu Panel Seed|95|Unknown|Seed|0|0|20|860225|None
+1166|Vampire Cape|101|NoSeed,Permanent|Clothing|0|0|0|0|Back
+1167|Vampire Cape Seed|101|Permanent|Seed|0|0|20|1033331|None
+1168|Slick Black Hair|35|NoSeed,Permanent|Clothing|0|0|0|0|Hair
+1169|Slick Black Hair Seed|35|Permanent|Seed|0|0|20|43925|None
+1170|Vampire Fangs|80|NoSeed,Permanent|Clothing|0|0|0|0|Face
+1171|Vampire Fangs Seed|80|Permanent|Seed|0|0|20|514400|None
+1172|Vamp Vest|40|NoSeed,Permanent|Clothing|0|0|0|0|Shirt
+1173|Vamp Vest Seed|40|Permanent|Seed|0|0|20|65200|None
+1174|Rollback Plaque II|1|NoSeed,Permanent|Foreground_Block|0|0|10|0|None
+1175|Rollback Plaque II Seed|1|Permanent|Seed|0|0|20|31|None
+1176|Aimster's Nightmare|999|NoSeed,Permanent,Untradable|Clothing|0|0|0|0|Feet
+1177|Aimster's Nightmare Seed|999|Permanent|Seed|0|0|20|3600|None
+1178|Skeletal Horsie|999|NoSeed,Permanent|Clothing|0|0|0|0|Feet
+1179|Skeletal Horsie Seed|999|Permanent|Seed|0|0|20|3600|None
+1180|Spiritual Resonator|999|NoSeed,Permanent|Clothing|0|0|0|0|Hat
+1181|Spiritual Resonator Seed|999|Permanent|Seed|0|0|20|3600|None
+1182|Hockey Mask|70|NoSeed,Permanent|Clothing|0|0|0|0|Face
+1183|Hockey Mask Seed|70|Permanent|Seed|0|0|20|345100|None
+1184|Mummy Mask|70|NoSeed,Permanent|Clothing|0|0|0|0|Face
+1185|Mummy Mask Seed|70|Permanent|Seed|0|0|20|345100|None
+1186|Skull Mask|70|NoSeed,Permanent|Clothing|0|0|0|0|Face
+1187|Skull Mask Seed|70|Permanent|Seed|0|0|20|345100|None
+1188|Wolfman Mask|70|NoSeed,Permanent|Clothing|0|0|0|0|Hair
+1189|Wolfman Mask Seed|70|Permanent|Seed|0|0|20|345100|None
+1190|Black Cat Leash|999|NoSeed,Permanent|Clothing|0|0|0|0|Hand
+1191|Black Cat Leash Seed|999|Permanent|Seed|0|0|20|3600|None
+1192|Creepy Hair|50|NoSeed,Permanent,Foreground|Clothing|0|0|0|0|Hair
+1193|Creepy Hair Seed|50|Permanent|Seed|0|0|20|126500|None
+1194|Haunted House|50|NoSeed,Permanent|Background_Block|0|0|6|0|None
+1195|Haunted House Seed|50|Permanent|Seed|0|0|20|126500|None
+1196|Jack O' Lantern|60|Wrenchable,NoSeed,Permanent,MultiFacing|Toggleable_Foreground|0|0|10|0|None
+1197|Jack O' Lantern Seed|60|Permanent|Seed|0|0|20|217800|None
+1198|Pumpkin Block|10|NoSeed,Permanent|Foreground_Block|0|0|5|0|None
+1199|Pumpkin Block Seed|10|Permanent|Seed|0|0|20|1300|None
+1200|Jack O' Block|15|NoSeed,Permanent|Foreground_Block|0|0|5|0|None
+1201|Jack O' Block Seed|15|Permanent|Seed|0|0|20|3825|None
+1202|Lit Jack O' Block|25|NoSeed,Permanent|Foreground_Block|0|0|5|0|None
+1203|Lit Jack O' Block Seed|25|Permanent|Seed|0|0|20|16375|None
+1204|Focused Eyes|999|NoSeed,Permanent,Untradable|Clothing|0|0|0|0|Face
+1205|Focused Eyes Seed|999|Permanent|Seed|0|0|20|3600|None
+1206|Devil Wings|999|NoSeed,Permanent|Clothing|0|0|0|0|Back
+1207|Devil Wings Seed|999|Permanent|Seed|0|0|20|3600|None
+1208|Candy Corn|1|NoSeed,Permanent|Consummable|0|0|3|0|None
+1209|Candy Corn Seed|1|Permanent|Seed|0|0|20|31|None
+1210|Weather Machine - Spooky|999|Dropless,NoSeed,Permanent,AutoPickup|Weather_Machine|0|0|10|0|None
+1211|Weather Machine - Spooky Seed|999|Permanent|Seed|0|0|20|3600|None
+1212|Lock of Black Fur|999|NoSeed,Permanent|Consummable|0|0|3|0|None
+1213|Lock of Black Fur Seed|999|Permanent|Seed|0|0|20|3600|None
+1214|Familiar Leash|999|NoSeed,Permanent|Clothing|0|0|0|0|Hand
+1215|Familiar Leash Seed|999|Permanent|Seed|0|0|20|3600|None
+1216|Cultist Hood|90|NoSeed,Permanent,Foreground|Clothing|0|0|0|0|Hair
+1217|Cultist Hood Seed|90|Permanent|Seed|0|0|20|731700|None
+1218|Cultist Robe|90|NoSeed,Permanent|Clothing|0|0|0|0|Shirt
+1219|Cultist Robe Seed|90|Permanent|Seed|0|0|20|731700|None
+1220|Sigil Of K'Tesh|20|NoSeed,Permanent|Consummable|0|0|3|0|None
+1221|Sigil Of K'Tesh Seed|20|Permanent|Seed|0|0|20|8600|None
+1222|Creepstone Platform|10|NoSeed,Permanent|Platform|0|0|3|0|None
+1223|Creepstone Platform Seed|10|Permanent|Seed|0|0|20|1300|None
+1224|Disabled Platform|999|NoShadow,NoSeed,Permanent,Mod|Foreground_Block|0|0|3|0|None
+1225|Disabled Platform Seed|999|Permanent,Mod|Seed|0|0|20|3600|None
+1226|Evil Eye|55|NoSeed,Permanent|Toggleable_Deadly_Block|0|0|6|0|None
+1227|Evil Eye Seed|55|Permanent|Seed|0|0|20|168025|None
+1228|Green Dragon Mask|999|NoSeed,Permanent,Untradable|Clothing|0|0|0|0|Hair
+1229|Green Dragon Mask Seed|999|Permanent|Seed|0|0|20|3600|None
+1230|Frankenhair|45|NoSeed,Permanent|Clothing|0|0|0|0|Hair
+1231|Frankenhair Seed|45|Permanent|Seed|0|0|20|92475|None
+1232|Sonar Bracelet|999|NoSeed,Permanent|Clothing|0|0|0|0|Hand
+1233|Sonar Bracelet Seed|999|Permanent|Seed|0|0|20|3600|None
+1234|Devil Wing Fragment|999|NoSeed,Permanent|Consummable|0|0|3|0|None
+1235|Devil Wing Fragment Seed|999|Permanent|Seed|0|0|20|3600|None
+1236|Boney Block|65|NoSeed,Permanent|Foreground_Block|0|0|6|0|None
+1237|Boney Block Seed|65|Permanent|Seed|0|0|20|276575|None
+1238|Cobweb|30|NoShadow,NoSeed,Permanent,Foreground|Foreground_Block|0|0|3|0|None
+1239|Cobweb Seed|30|Permanent|Seed|0|0|20|27900|None
+1240|Heart Monitor|999|Dropless,NoSeed,Permanent,MultiFacing,AutoPickup|Heart_Monitor|0|0|8|0|None
+1241|Heart Monitor Seed|999|Permanent|Seed|0|0|20|3600|None
+1242|Scrub Cap|999|Permanent|Clothing|0|0|0|0|Hat
+1243|Scrub Cap Seed|999|Permanent|Seed|0|0|20|3600|None
+1244|Scrub Mask|999|Permanent|Clothing|0|0|0|0|Face
+1245|Scrub Mask Seed|999|Permanent|Seed|0|0|20|3600|None
+1246|Scrub Top|999|Permanent|Clothing|0|0|0|0|Shirt
+1247|Scrub Top Seed|999|Permanent|Seed|0|0|20|3600|None
+1248|Scrub Pants|999|Permanent|Clothing|0|0|0|0|Pants
+1249|Scrub Pants Seed|999|Permanent|Seed|0|0|20|3600|None
+1250|Bride Of Reanimator Remote|200|NoSeed,Permanent|Clothing|0|0|0|0|Hand
+1251|Bride Of Reanimator Remote Seed|200|Permanent|Seed|0|0|20|8006000|None
+1252|Magnifying Glass|999|Permanent|Clothing|0|0|0|0|Hand
+1253|Magnifying Glass Seed|999|Permanent|Seed|0|0|20|3600|None
+1254|Retro Magnifying Glass|999|Permanent|Clothing|0|0|0|0|Hand
+1255|Retro Magnifying Glass Seed|999|Permanent|Seed|0|0|20|3600|None
+1256|Hospital Bed|31|MultiFacing|Foreground_Block|0|0|5|0|None
+1257|Hospital Bed Seed|31|Unknown|Seed|0|0|20|30721|None
+1258|Surgical Sponge|83|RandomGrow|Component|0|0|4|0|None
+1259|Surgical Sponge Seed|83|RandomGrow|Seed|0|0|20|574277|None
+1260|Surgical Scalpel|83|RandomGrow|Component|0|0|4|0|None
+1261|Surgical Scalpel Seed|83|RandomGrow|Seed|0|0|20|574277|None
+1262|Surgical Anesthetic|83|RandomGrow|Component|0|0|4|0|None
+1263|Surgical Anesthetic Seed|83|RandomGrow|Seed|0|0|20|574277|None
+1264|Surgical Antiseptic|83|RandomGrow|Component|0|0|4|0|None
+1265|Surgical Antiseptic Seed|83|RandomGrow|Seed|0|0|20|574277|None
+1266|Surgical Antibiotics|83|RandomGrow|Component|0|0|4|0|None
+1267|Surgical Antibiotics Seed|83|RandomGrow|Seed|0|0|20|574277|None
+1268|Surgical Splint|83|RandomGrow|Component|0|0|4|0|None
+1269|Surgical Splint Seed|83|RandomGrow|Seed|0|0|20|574277|None
+1270|Surgical Stitches|83|RandomGrow|Component|0|0|4|0|None
+1271|Surgical Stitches Seed|83|RandomGrow|Seed|0|0|20|574277|None
+1272|Ambulance|999|Dropless,NoSeed,Permanent|Clothing|0|0|0|0|Feet
+1273|Ambulance Seed|999|Permanent|Seed|0|0|20|3600|None
+1274|Edison Zoomster|999|NoSeed,Permanent|Clothing|0|0|0|0|Feet
+1275|Edison Zoomster Seed|999|Permanent|Seed|0|0|20|3600|None
+1276|Punch Jammer|999|Wrenchable,Dropless,AutoPickup|Toggleable_Foreground|0|0|30|0|None
+1277|Punch Jammer Seed|999|Unknown|Seed|0|0|20|3600|None
+1278|Zombie Jammer|999|Wrenchable,Dropless,AutoPickup|Toggleable_Foreground|0|0|30|0|None
+1279|Zombie Jammer Seed|999|Unknown|Seed|0|0|20|3600|None
+1280|Birth Certificate|999|NoSeed,Permanent|Consummable|0|0|3|0|None
+1281|Birth Certificate Seed|999|Permanent|Seed|0|0|20|3600|None
+1282|Candy Striper Cap|999|Permanent|Clothing|0|0|0|0|Hair
+1283|Candy Striper Cap Seed|999|Permanent|Seed|0|0|20|3600|None
+1284|Candy Striper Uniform|999|Permanent|Clothing|0|0|0|0|Shirt
+1285|Candy Striper Uniform Seed|999|Permanent|Seed|0|0|20|3600|None
+1286|Candy Striper Skirt|999|Permanent|Clothing|0|0|0|0|Pants
+1287|Candy Striper Skirt Seed|999|Permanent|Seed|0|0|20|3600|None
+1288|Hospital Curtain|999|NoSeed,Permanent,Foreground|Foreground_Block|0|0|3|0|None
+1289|Hospital Curtain Seed|999|Permanent|Seed|0|0|20|3600|None
+1290|Hospital Wall|999|NoSeed,Permanent|Background_Block|0|0|3|0|None
+1291|Hospital Wall Seed|999|Permanent|Seed|0|0|20|3600|None
+1292|Hospital Window|999|NoSeed,Permanent|Background_Block|0|0|3|0|None
+1293|Hospital Window Seed|999|Permanent|Seed|0|0|20|3600|None
+1294|Hospital Door|999|NoShadow,Wrenchable,NoSeed,Permanent|Door|0|0|5|0|None
+1295|Hospital Door Seed|999|Permanent|Seed|0|0|20|3600|None
+1296|Surgical Gloves|999|NoSeed,Permanent,Beta,Mod|Component|0|0|4|0|None
+1297|Surgical Gloves Seed|999|Permanent,Mod|Seed|0|0|20|3600|None
+1298|Cutaway Building|23|Unknown|Foreground_Block|0|0|3|0|None
+1299|Cutaway Building Seed|23|Unknown|Seed|0|0|20|12857|None
+1300|Roshambo Block|71|Wrenchable|Random_Block|0|0|10|0|None
+1301|Roshambo Block Seed|71|Unknown|Seed|0|0|20|360041|None
+1302|Cow Cube|98|MultiFacing|Animated_Foreground_Block|0|0|6|0|None
+1303|Cow Cube Seed|98|Unknown|Seed|0|0|20|944132|None
+1304|Staircase|12|MultiFacing|Platform|0|0|3|0|None
+1305|Staircase Seed|12|Unknown|Seed|0|0|20|2088|None
+1306|Terracotta Pot|3|Unknown|Foreground_Block|0|0|6|0|None
+1307|Terracotta Pot Seed|3|Unknown|Seed|0|0|20|117|None
+1308|Climbing Vine|30|Unknown|Platform|0|0|3|0|None
+1309|Climbing Vine Seed|30|Unknown|Seed|0|0|20|27900|None
+1310|Thingamajig|155|Unknown|Component|0|0|6|0|None
+1311|Thingamajig Seed|155|Unknown|Seed|0|0|20|3728525|None
+1312|Bushy Beard|41|Permanent|Clothing|0|0|0|0|Face
+1313|Bushy Beard Seed|41|Permanent|Seed|0|0|20|70151|None
+1314|Ponytail|40|Permanent|Clothing|0|0|0|0|Hair
+1315|Ponytail Seed|40|Permanent|Seed|0|0|20|65200|None
+1316|Happy Sun Shirt|42|Permanent|Clothing|0|0|0|0|Shirt
+1317|Happy Sun Shirt Seed|42|Permanent|Seed|0|0|20|75348|None
+1318|Blue Sun Shirt|42|Permanent|Clothing|0|0|0|0|Shirt
+1319|Blue Sun Shirt Seed|42|Permanent|Seed|0|0|20|75348|None
+1320|Riding Raptor|999|Dropless,NoSeed,Permanent|Clothing|0|0|0|0|Feet
+1321|Riding Raptor Seed|999|Permanent|Seed|0|0|20|3600|None
+1322|Cliffside|4|Unknown|Background_Block|0|0|3|0|None
+1323|Cliffside Seed|4|Unknown|Seed|0|0|20|184|None
+1324|Rock Platform|5|Unknown|Platform|0|0|3|0|None
+1325|Rock Platform Seed|5|Unknown|Seed|0|0|20|275|None
+1326|Cave Entrance|44|NoShadow,Wrenchable|Door|0|0|5|0|None
+1327|Cave Entrance Seed|44|Unknown|Seed|0|0|20|86504|None
+1328|Prehistoric Palm|45|Unknown|Foreground_Block|0|0|10|0|None
+1329|Prehistoric Palm Seed|45|Unknown|Seed|0|0|20|92475|None
+1330|Caveman Club|55|Permanent|Clothing|0|0|0|0|Hand
+1331|Caveman Club Seed|55|Permanent|Seed|0|0|20|168025|None
+1332|Sabertooth-Skin Toga|25|Permanent|Clothing|0|0|0|0|Shirt
+1333|Sabertooth-Skin Toga Seed|25|Permanent|Seed|0|0|20|16375|None
+1334|Caveman Hair|75|Permanent|Clothing|0|0|0|0|Hair
+1335|Caveman Hair Seed|75|Permanent|Seed|0|0|20|424125|None
+1336|Sabertooth Growtopian|999|Permanent|Clothing|0|0|0|0|Face
+1337|Sabertooth Growtopian Seed|999|Permanent|Seed|0|0|20|3600|None
+1338|Cavewoman Hair|75|Permanent|Clothing|0|0|0|0|Hair
+1339|Cavewoman Hair Seed|75|Permanent|Seed|0|0|20|424125|None
+1340|Fuzzy Bikini Top|24|Permanent|Clothing|0|0|0|0|Shirt
+1341|Fuzzy Bikini Top Seed|24|Permanent|Seed|0|0|20|14544|None
+1342|Fuzzy Bikini Bottom|34|Permanent|Clothing|0|0|0|0|Pants
+1343|Fuzzy Bikini Bottom Seed|34|Permanent|Seed|0|0|20|40324|None
+1344|Ice Cube|128|Unknown|Slippery_Block|0|0|5|0|None
+1345|Ice Cube Seed|128|Unknown|Seed|0|0|20|2100992|None
+1346|Frozen DNA Fragment A|146|Unknown|Slippery_Block|0|0|5|0|None
+1347|Frozen DNA Fragment A Seed|146|Unknown|Seed|0|0|20|3116516|None
+1348|Frozen DNA Fragment B|217|Unknown|Slippery_Block|0|0|5|0|None
+1349|Frozen DNA Fragment B Seed|217|Unknown|Seed|0|0|20|10224823|None
+1350|Mini Mammoth Leash|363|Permanent|Clothing|0|0|0|0|Hand
+1351|Mini Mammoth Leash Seed|363|Permanent|Seed|0|0|20|47843037|None
+1352|Whatchamacallit|194|Unknown|Component|0|0|6|0|None
+1353|Whatchamacallit Seed|194|Unknown|Seed|0|0|20|7307204|None
+1354|Kerjigger|999|NoSeed,Permanent|Component|0|0|6|0|None
+1355|Kerjigger Seed|999|Permanent|Seed|0|0|20|3600|None
+1356|Snowy Rocks|31|Holiday|Foreground_Block|0|0|4|0|None
+1357|Snowy Rocks Seed|31|Holiday|Seed|0|0|20|30721|None
+1358|Candy Cane Block|14|NoSeed,Permanent,Holiday|Foreground_Block|0|0|4|0|None
+1359|Candy Cane Block Seed|14|Permanent,Holiday|Seed|0|0|20|3164|None
+1360|Winter Gift|999|NoSeed,Permanent,Holiday|Consummable|0|0|3|0|None
+1361|Winter Gift Seed|999|Permanent,Holiday|Seed|0|0|20|3600|None
+1362|Candy Cane Fence|48|NoSeed,Permanent,Foreground,Holiday|Foreground_Block|0|0|3|0|None
+1363|Candy Cane Fence Seed|48|Permanent,Holiday|Seed|0|0|20|112032|None
+1364|Weather Machine - Snowy|999|Dropless,NoSeed,Permanent,Holiday,AutoPickup|Weather_Machine|0|0|10|0|None
+1365|Weather Machine - Snowy Seed|999|Permanent,Holiday|Seed|0|0|20|3600|None
+1366|Dumb Friend|999|NoSeed,Permanent,Beta,Mod|Component|0|0|1|0|None
+1367|Dumb Friend Seed|999|Unknown|Seed|0|0|20|3600|None
+1368|Snowball|42|NoSeed,Permanent,Holiday|Consummable|0|0|3|0|None
+1369|Snowball Seed|42|Permanent,Holiday|Seed|0|0|20|75348|None
+1370|Festivus Pole|46|NoSeed,Permanent,Holiday|Foreground_Block|0|0|3|0|None
+1371|Festivus Pole Seed|46|Permanent,Holiday|Seed|0|0|20|98716|None
+1372|Giant Candle|33|NoSeed,Permanent,Holiday|Foreground_Block|0|0|3|0|None
+1373|Giant Candle Seed|33|Permanent,Holiday|Seed|0|0|20|36927|None
+1374|Tangyuan|15|NoSeed,Permanent,Holiday|Consummable|0|0|3|0|None
+1375|Tangyuan Seed|15|Permanent,Holiday|Seed|0|0|20|3825|None
+1376|Yeonnalligi|162|NoSeed,Permanent,Holiday|Clothing|0|0|0|0|Hand
+1377|Yeonnalligi Seed|162|Permanent,Holiday|Seed|0|0|20|4256388|None
+1378|Ice Dragon Hand|999|NoSeed,Permanent,Holiday|Clothing|0|0|0|0|Hand
+1379|Ice Dragon Hand Seed|999|Permanent,Holiday|Seed|0|0|20|3600|None
+1380|Elf Hat|10|NoSeed,Permanent,Holiday|Clothing|0|0|0|0|Hat
+1381|Elf Hat Seed|10|Permanent,Holiday|Seed|0|0|20|1300|None
+1382|Antler Hat|36|NoSeed,Permanent,Holiday|Clothing|0|0|0|0|Hat
+1383|Antler Hat Seed|36|Permanent,Holiday|Seed|0|0|20|47736|None
+1384|Glowing Nose|50|NoSeed,Permanent,Holiday|Clothing|0|0|0|0|Face
+1385|Glowing Nose Seed|50|Permanent,Holiday|Seed|0|0|20|126500|None
+1386|Buckskin Hood|49|NoSeed,Permanent,Holiday|Clothing|0|0|0|0|Hair
+1387|Buckskin Hood Seed|49|Permanent,Holiday|Seed|0|0|20|119119|None
+1388|Buckskin Jacket|55|NoSeed,Permanent,Holiday|Clothing|0|0|0|0|Shirt
+1389|Buckskin Jacket Seed|55|Permanent,Holiday|Seed|0|0|20|168025|None
+1390|Holiday Gift Box|150|Wrenchable,NoSeed,Permanent,Holiday|Donation_Box|0|0|15|0|None
+1391|Holiday Gift Box Seed|150|Permanent,Holiday|Seed|0|0|20|3379500|None
+1392|Buckskin Pants|48|NoSeed,Permanent,Holiday|Clothing|0|0|0|0|Pants
+1393|Buckskin Pants Seed|48|Permanent,Holiday|Seed|0|0|20|112032|None
+1394|Polar Bear Leash|999|NoSeed,Permanent,Holiday|Clothing|0|0|0|0|Hand
+1395|Polar Bear Leash Seed|999|Permanent,Holiday|Seed|0|0|20|3600|None
+1396|Doohickey|999|Unknown|Component|0|0|6|0|None
+1397|Doohickey Seed|999|Unknown|Seed|0|0|20|3600|None
+1398|Inviso-Block|1|NoSeed,Permanent,Mod|Foreground_Block|0|0|2|0|None
+1399|Inviso-Block Seed|1|Permanent,Mod|Seed|0|0|20|31|None
+1400|Mini Growtopian|999|NoSeed,Permanent|Clothing|0|0|0|0|Hand
+1401|Mini Growtopian Seed|999|Permanent|Seed|0|0|20|3600|None
+1402|Thermonuclear Blast|999|NoSeed,Permanent|Consummable|0|0|3|0|None
+1403|Thermonuclear Blast Seed|999|Permanent|Seed|0|0|20|3600|None
+1404|Door Mover|999|NoSeed,Permanent|Consummable|0|0|3|0|None
+1405|Door Mover Seed|999|Permanent|Seed|0|0|20|3600|None
+1406|Skyrocket|999|NoSeed,Permanent|Consummable|0|0|3|0|None
+1407|Skyrocket Seed|999|Permanent|Seed|0|0|20|3600|None
+1408|Party Pants|999|NoSeed,Permanent|Clothing|0|0|0|0|Pants
+1409|Party Pants Seed|999|Permanent|Seed|0|0|20|3600|None
+1410|Party Vest|999|NoSeed,Permanent|Clothing|0|0|0|0|Shirt
+1411|Party Vest Seed|999|Permanent|Seed|0|0|20|3600|None
+1412|Party Hat|999|NoSeed,Permanent|Clothing|0|0|0|0|Hat
+1413|Party Hat Seed|999|Permanent|Seed|0|0|20|3600|None
+1414|Party Horn|999|NoSeed,Permanent|Clothing|0|0|0|0|Face
+1415|Party Horn Seed|999|Permanent|Seed|0|0|20|3600|None
+1416|Party Socks|999|NoSeed,Permanent|Clothing|0|0|0|0|Feet
+1417|Party Socks Seed|999|Permanent|Seed|0|0|20|3600|None
+1418|Party Glasses|999|NoSeed,Permanent|Clothing|0|0|0|0|Face
+1419|Party Glasses Seed|999|Permanent|Seed|0|0|20|3600|None
+1420|Mannequin|83|Wrenchable,MultiFacing|Mannequin|0|0|15|0|None
+1421|Mannequin Seed|83|Unknown|Seed|0|0|20|574277|None
+1422|Display Box|45|Foreground|Foreground_Block|0|0|6|0|None
+1423|Display Box Seed|45|Unknown|Seed|0|0|20|92475|None
+1424|World Key|999|NoSeed,Permanent|Component|0|0|2|0|None
+1425|World Key Seed|999|Permanent|Seed|0|0|20|3600|None
+1426|For Sale Sign|19|Wrenchable|Sign|0|0|6|0|None
+1427|For Sale Sign Seed|19|Unknown|Seed|0|0|20|7429|None
+1428|Gem Sign|21|Wrenchable|Sign|0|0|6|0|None
+1429|Gem Sign Seed|21|Unknown|Seed|0|0|20|9891|None
+1430|Shop Sign|30|Wrenchable|Sign|0|0|6|0|None
+1431|Shop Sign Seed|30|Unknown|Seed|0|0|20|27900|None
+1432|Exclamation Sign|9|Wrenchable|Sign|0|0|6|0|None
+1433|Exclamation Sign Seed|9|Unknown|Seed|0|0|20|999|None
+1434|Cash Register|52|MultiFacing|SFX_Foreground|0|0|12|0|None
+1435|Cash Register Seed|52|Unknown|Seed|0|0|20|142168|None
+1436|Security Camera|999|Wrenchable,Dropless,MultiFacing,AutoPickup|Security_Camera|0|0|12|0|None
+1437|Security Camera Seed|999|Unknown|Seed|0|0|20|3600|None
+1438|Golden Pickaxe|999|NoSeed,Permanent,Untradable|Clothing|0|0|0|0|Hand
+1439|Golden Pickaxe Seed|999|Permanent|Seed|0|0|20|3600|None
+1440|Evil Space Helmet|999|NoSeed,Permanent,Untradable|Clothing|0|0|0|0|Hair
+1441|Evil Space Helmet Seed|999|Permanent|Seed|0|0|20|3600|None
+1442|Burning Face|999|NoSeed,Permanent,Untradable|Clothing|0|0|0|0|Hat
+1443|Burning Face Seed|999|Permanent|Seed|0|0|20|3600|None
+1444|Frosty Hair|999|NoSeed,Permanent,Untradable|Clothing|0|0|0|0|Hair
+1445|Frosty Hair Seed|999|Permanent|Seed|0|0|20|3600|None
+1446|Open Sign|59|Wrenchable|Switch_Block|0|0|4|0|None
+1447|Open Sign Seed|59|Unknown|Seed|0|0|20|207149|None
+1448|Television|29|Wrenchable,MultiFacing|Toggleable_Foreground|0|0|10|0|None
+1449|Television Seed|29|Unknown|Seed|0|0|20|25259|None
+1450|Couch|41|MultiFacing|Foreground_Block|0|0|5|0|None
+1451|Couch Seed|41|Unknown|Seed|0|0|20|70151|None
+1452|Donation Box|65|Wrenchable|Donation_Box|0|0|15|0|None
+1453|Donation Box Seed|65|Unknown|Seed|0|0|20|276575|None
+1454|Meaty Apron|65|Permanent|Clothing|0|0|0|0|Chest
+1455|Meaty Apron Seed|65|Permanent|Seed|0|0|20|276575|None
+1456|Gold Chain|71|Permanent|Clothing|0|0|0|0|Chest
+1457|Gold Chain Seed|71|Permanent|Seed|0|0|20|360041|None
+1458|Golden Heart Crystal|999|NoSeed,Permanent|Component|0|0|2|0|None
+1459|Golden Heart Crystal Seed|999|Permanent|Seed|0|0|20|3600|None
+1460|Golden Angel Wings|999|NoSeed,Permanent|Clothing|0|0|0|0|Back
+1461|Golden Angel Wings Seed|999|Permanent|Seed|0|0|20|3600|None
+1462|Golden Diaper|999|NoSeed,Permanent|Clothing|0|0|0|0|Pants
+1463|Golden Diaper Seed|999|Permanent|Seed|0|0|20|3600|None
+1464|Golden Heartbow|999|NoSeed,Permanent|Clothing|0|0|0|0|Hand
+1465|Golden Heartbow Seed|999|Permanent|Seed|0|0|20|3600|None
+1466|Golden Diamond Necklace|999|NoSeed,Permanent|Clothing|0|0|0|0|Chest
+1467|Golden Diamond Necklace Seed|999|Permanent|Seed|0|0|20|3600|None
+1468|Emerald Necklace|165|Permanent|Clothing|0|0|0|0|Chest
+1469|Emerald Necklace Seed|165|Permanent|Seed|0|0|20|4497075|None
+1470|Ruby Necklace|999|NoSeed,Permanent|Clothing|0|0|0|0|Chest
+1471|Ruby Necklace Seed|999|Permanent|Seed|0|0|20|3600|None
+1472|Microwave|75|MultiFacing|Chemical_Combiner|0|0|10|0|None
+1473|Microwave Seed|75|Unknown|Seed|0|0|20|424125|None
+1474|Eggs Benedict|999|NoSeed,Permanent|Consummable|0|0|4|0|None
+1475|Eggs Benedict Seed|999|Permanent|Seed|0|0|20|3600|None
+1476|Ducky Pajama Pants|46|Permanent|Clothing|0|0|0|0|Pants
+1477|Ducky Pajama Pants Seed|46|Permanent|Seed|0|0|20|98716|None
+1478|Ducky Pajama Top|51|Permanent|Clothing|0|0|0|0|Shirt
+1479|Ducky Pajama Top Seed|51|Permanent|Seed|0|0|20|134181|None
+1480|Window Curtains|11|Unknown|Background_Block|0|0|3|0|None
+1481|Window Curtains Seed|11|Unknown|Seed|0|0|20|1661|None
+1482|Wall Clock|999|Dropless,NoSeed,Permanent,AutoPickup|Foreground_Block|0|0|8|0|None
+1483|Wall Clock Seed|999|Permanent|Seed|0|0|20|3600|None
+1484|Atomic Shadow Scythe|999|NoSeed,Permanent,Untradable|Clothing|0|0|0|0|Hand
+1485|Atomic Shadow Scythe Seed|999|Permanent|Seed|0|0|20|3600|None
+1486|Growtoken|999|NoSeed,Permanent,Untradable|Component|0|0|1|0|None
+1487|Growtoken Seed|999|Permanent|Seed|0|0|20|3600|None
+1488|Experience Potion|999|NoSeed,Permanent,Untradable|Consummable|0|0|1|0|None
+1489|Experience Potion Seed|999|Permanent|Seed|0|0|20|3600|None
+1490|Weather Machine - Nothingness|999|Dropless,NoSeed,Permanent,AutoPickup|Weather_Machine|0|0|10|0|None
+1491|Weather Machine - Nothingness Seed|999|Permanent|Seed|0|0|20|3600|None
+1492|Doodad|999|NoSeed,Permanent|Component|0|0|2|0|None
+1493|Doodad Seed|999|Permanent|Seed|0|0|20|3600|None
+1494|ERROR!|999|NoSeed,Permanent,Untradable,Mod|Component|0|0|2|0|None
+1495|ERROR! Seed|999|Permanent,Mod|Seed|0|0|20|3600|None
+1496|Rushboard|999|NoSeed,Permanent,Untradable|Clothing|0|0|0|0|Feet
+1497|Rushboard Seed|999|Permanent|Seed|0|0|20|3600|None
+1498|Purple Stuff|41|Unknown|Foreground_Block|0|0|7|0|None
+1499|Purple Stuff Seed|41|Unknown|Seed|0|0|20|70151|None
+1500|Orange Stuff|31|Unknown|Foreground_Block|0|0|7|0|None
+1501|Orange Stuff Seed|31|Unknown|Seed|0|0|20|30721|None
+1502|Winter Scarf|36|Permanent|Clothing|0|0|0|0|Chest
+1503|Winter Scarf Seed|36|Permanent|Seed|0|0|20|47736|None
+1504|Old-Timey Hat|19|Permanent|Clothing|0|0|0|0|Hat
+1505|Old-Timey Hat Seed|19|Permanent|Seed|0|0|20|7429|None
+1506|Medical Scarf|999|Permanent|Clothing|0|0|0|0|Chest
+1507|Medical Scarf Seed|999|Permanent|Seed|0|0|20|3600|None
+1508|Blarney Stone|999|Dropless,NoSeed,Permanent,Untradable,Mod,AutoPickup|Foreground_Block|0|0|7|0|None
+1509|Blarney Stone Seed|999|Permanent,Mod|Seed|0|0|20|3600|None
+1510|Blarney Pebble|999|NoSeed,Permanent,Untradable|Consummable|0|0|7|0|None
+1511|Blarney Pebble Seed|999|Permanent|Seed|0|0|20|3600|None
+1512|Pet Leprechaun|999|NoSeed,Permanent|Clothing|0|0|0|0|Hand
+1513|Pet Leprechaun Seed|999|Permanent|Seed|0|0|20|3600|None
+1514|Celtic Block|999|NoSeed,Permanent|Foreground_Block|0|0|6|0|None
+1515|Celtic Block Seed|999|Permanent|Seed|0|0|20|3600|None
+1516|Black-Rimmed Glasses|42|Permanent|Clothing|0|0|0|0|Face
+1517|Black-Rimmed Glasses Seed|42|Permanent|Seed|0|0|20|75348|None
+1518|Diving Bell|75|Permanent,Foreground|Clothing|0|0|0|0|Hair
+1519|Diving Bell Seed|75|Permanent|Seed|0|0|20|424125|None
+1520|Great White Shark|85|MultiFacing|Deadly_Block|0|0|7|0|None
+1521|Great White Shark Seed|85|Unknown|Seed|0|0|20|616675|None
+1522|Jellyfish|56|MultiFacing|Spike|0|0|4|0|None
+1523|Jellyfish Seed|56|Unknown|Seed|0|0|20|177296|None
+1524|Wetsuit Pants|48|Permanent|Clothing|0|0|0|0|Pants
+1525|Wetsuit Pants Seed|48|Permanent|Seed|0|0|20|112032|None
+1526|Wetsuit Top|63|Permanent|Clothing|0|0|0|0|Shirt
+1527|Wetsuit Top Seed|63|Permanent|Seed|0|0|20|251937|None
+1528|Sunken Anchor|51|MultiFacing|Foreground_Block|0|0|7|0|None
+1529|Sunken Anchor Seed|51|Unknown|Seed|0|0|20|134181|None
+1530|Giant Clam|56|Unknown|Chest|0|0|10|0|None
+1531|Giant Clam Seed|56|Unknown|Seed|0|0|20|177296|None
+1532|Undersea Blast|999|NoSeed,Permanent|Consummable|0|0|3|0|None
+1533|Undersea Blast Seed|999|Permanent|Seed|0|0|20|3600|None
+1534|Cuddly Piranha|999|NoSeed,Permanent|Clothing|0|0|0|0|Hand
+1535|Cuddly Piranha Seed|999|Permanent|Seed|0|0|20|3600|None
+1536|Deep Sand|1|Unknown|Foreground_Block|0|0|3|0|None
+1537|Deep Sand Seed|1|Unknown|Seed|0|0|20|31|None
+1538|Deep Rock|1|Unknown|Foreground_Block|0|0|9|0|None
+1539|Deep Rock Seed|1|Unknown|Seed|0|0|20|31|None
+1540|Mid-Pacific Owl|999|NoSeed,Permanent|Clothing|0|0|0|0|Hand
+1541|Mid-Pacific Owl Seed|999|Permanent|Seed|0|0|20|3600|None
+1542|Battle Trout|141|NoSeed,Permanent|Clothing|0|0|0|0|Hand
+1543|Battle Trout Seed|141|Permanent|Seed|0|0|20|2807451|None
+1544|Green Bowtie|999|NoSeed,Permanent|Clothing|0|0|0|0|Chest
+1545|Green Bowtie Seed|999|Permanent|Seed|0|0|20|3600|None
+1546|Green Pageboy|999|NoSeed,Permanent|Clothing|0|0|0|0|Hair
+1547|Green Pageboy Seed|999|Permanent|Seed|0|0|20|3600|None
+1548|Easter Bonnet|999|NoSeed,Permanent|Clothing|0|0|0|0|Hat
+1549|Easter Bonnet Seed|999|Permanent|Seed|0|0|20|3600|None
+1550|Bubble Wings|999|NoSeed,Permanent|Clothing|0|0|0|0|Back
+1551|Bubble Wings Seed|999|Permanent|Seed|0|0|20|3600|None
+1552|Pet Bunny|999|NoSeed,Permanent|Clothing|0|0|0|0|Hand
+1553|Pet Bunny Seed|999|Permanent|Seed|0|0|20|3600|None
+1554|Pastel Pink Flower Block|6|Unknown|Foreground_Block|0|0|8|0|None
+1555|Pastel Pink Flower Block Seed|6|Unknown|Seed|0|0|20|396|None
+1556|Pastel Orange Flower Block|11|Unknown|Foreground_Block|0|0|8|0|None
+1557|Pastel Orange Flower Block Seed|11|Unknown|Seed|0|0|20|1661|None
+1558|Pastel Yellow Flower Block|8|Unknown|Foreground_Block|0|0|8|0|None
+1559|Pastel Yellow Flower Block Seed|8|Unknown|Seed|0|0|20|752|None
+1560|Pastel Green Flower Block|7|Unknown|Foreground_Block|0|0|8|0|None
+1561|Pastel Green Flower Block Seed|7|Unknown|Seed|0|0|20|553|None
+1562|Pastel Aqua Flower Block|7|Unknown|Foreground_Block|0|0|8|0|None
+1563|Pastel Aqua Flower Block Seed|7|Unknown|Seed|0|0|20|553|None
+1564|Pastel Blue Flower Block|17|Unknown|Foreground_Block|0|0|8|0|None
+1565|Pastel Blue Flower Block Seed|17|Unknown|Seed|0|0|20|5423|None
+1566|Pastel Purple Flower Block|21|Unknown|Foreground_Block|0|0|12|0|None
+1567|Pastel Purple Flower Block Seed|21|Unknown|Seed|0|0|20|9891|None
+1568|Lucky Pinata Hat|999|NoSeed,Permanent|Clothing|0|0|0|0|Hat
+1569|Lucky Pinata Hat Seed|999|Permanent|Seed|0|0|20|3600|None
+1570|Mariachi Guitar|999|NoSeed,Permanent|Clothing|0|0|0|0|Hand
+1571|Mariachi Guitar Seed|999|Permanent|Seed|0|0|20|3600|None
+1572|Churro Block|1|Unknown|Foreground_Block|0|0|5|0|None
+1573|Churro Block Seed|1|Unknown|Seed|0|0|20|31|None
+1574|Parrot Wings|999|NoSeed,Permanent|Clothing|0|0|0|0|Back
+1575|Parrot Wings Seed|999|Permanent|Seed|0|0|20|3600|None
+1576|Fiesta Dragon|999|NoSeed,Permanent|Clothing|0|0|0|0|Hand
+1577|Fiesta Dragon Seed|999|Permanent|Seed|0|0|20|3600|None
+1578|Party Cactus|999|NoSeed,Permanent,MultiFacing|Spike|0|0|4|0|None
+1579|Party Cactus Seed|999|Permanent|Seed|0|0|20|3600|None
+1580|Burrito|999|NoSeed,Permanent|Consummable|0|0|5|0|None
+1581|Burrito Seed|999|Permanent|Seed|0|0|20|3600|None
+1582|Pink Cadillac|999|NoSeed,Permanent|Clothing|0|0|0|0|Feet
+1583|Pink Cadillac Seed|999|Permanent|Seed|0|0|20|3600|None
+1584|Mystery Pinata|999|NoSeed,Permanent,Public|Event_Mystery_Block|0|0|30|0|None
+1585|Mystery Pinata Seed|999|Permanent|Seed|0|0|20|3600|None
+1586|Pet Burrito|999|NoSeed,Permanent|Clothing|0|0|0|0|Hand
+1587|Pet Burrito Seed|999|Permanent|Seed|0|0|20|3600|None
+1588|Clapboard|61|Permanent|Clothing|0|0|0|0|Hand
+1589|Clapboard Seed|61|Permanent|Seed|0|0|20|228811|None
+1590|3D Glasses|33|Permanent|Clothing|0|0|0|0|Face
+1591|3D Glasses Seed|33|Permanent|Seed|0|0|20|36927|None
+1592|Black Beret|96|Permanent|Clothing|0|0|0|0|Hat
+1593|Black Beret Seed|96|Permanent|Seed|0|0|20|887616|None
+1594|Theater Curtain|53|Unknown|Foreground_Block|0|0|4|0|None
+1595|Theater Curtain Seed|53|Unknown|Seed|0|0|20|150467|None
+1596|GHX Speaker|999|Wrenchable,Dropless,NoSeed,Permanent,MultiFacing,AutoPickup|Toggleable_Foreground|0|0|10|0|None
+1597|GHX Speaker Seed|999|Permanent|Seed|0|0|20|3600|None
+1598|Marquee Block|47|Unknown|Foreground_Block|0|0|4|0|None
+1599|Marquee Block Seed|47|Unknown|Seed|0|0|20|105233|None
+1600|Director's Chair|64|MultiFacing|Foreground_Block|0|0|8|0|None
+1601|Director's Chair Seed|64|Unknown|Seed|0|0|20|264064|None
+1602|Mint Julep|999|NoSeed,Permanent|Consummable|0|0|3|0|None
+1603|Mint Julep Seed|999|Permanent|Seed|0|0|20|3600|None
+1604|Theater Seat|42|Unknown|Foreground_Block|0|0|4|0|None
+1605|Theater Seat Seed|42|Unknown|Seed|0|0|20|75348|None
+1606|Movie Screen|71|Unknown|Background_Block|0|0|3|0|None
+1607|Movie Screen Seed|71|Unknown|Seed|0|0|20|360041|None
+1608|Movie Camera|92|MultiFacing|Foreground_Block|0|0|6|0|None
+1609|Movie Camera Seed|92|Unknown|Seed|0|0|20|781448|None
+1610|Red Glass Block|11|Unknown|Foreground_Block|0|0|3|0|None
+1611|Red Glass Block Seed|11|Unknown|Seed|0|0|20|1661|None
+1612|Blue Glass Block|22|Unknown|Foreground_Block|0|0|3|0|None
+1613|Blue Glass Block Seed|22|Unknown|Seed|0|0|20|11308|None
+1614|Growie Award|999|Dropless,MultiFacing,WorldLock,AutoPickup|Foreground_Block|0|0|10|0|None
+1615|Growie Award Seed|999|Unknown|Seed|0|0|20|3600|None
+1616|Staging Platform|229|Wrenchable,Foreground|Game_Block|0|0|10|0|None
+1617|Staging Platform Seed|229|Unknown|Seed|0|0|20|12015859|None
+1618|Game Block|146|Wrenchable,Public|Game_Block|0|0|20|0|None
+1619|Game Block Seed|146|Unknown|Seed|0|0|20|3116516|None
+1620|Busted Game Block|999|NoShadow,Wrenchable,NoSeed,Permanent,Untradable|Game_Block|0|0|20|0|None
+1621|Busted Game Block Seed|999|Permanent|Seed|0|0|20|3600|None
+1622|Game Flag|168|Wrenchable|Game_Block|0|0|10|0|None
+1623|Game Flag Seed|168|Unknown|Seed|0|0|20|4746672|None
+1624|Missing Game Flag|999|NoShadow,Wrenchable,NoSeed,Permanent,Untradable|Game_Block|0|0|10|0|None
+1625|Missing Game Flag Seed|999|Permanent|Seed|0|0|20|3600|None
+1626|Carried Game Flag|999|NoShadow,Wrenchable,NoSeed,Permanent,Untradable|Game_Block|0|0|10|0|None
+1627|Carried Game Flag Seed|999|Permanent|Seed|0|0|20|3600|None
+1628|Derpy Star Block|999|NoSeed,Permanent,MultiFacing|Foreground_Block|0|0|10|0|None
+1629|Derpy Star Block Seed|999|Permanent|Seed|0|0|20|3600|None
+1630|Lava Cube|1|Unknown|Pain_Block|0|0|4|0|None
+1631|Lava Cube Seed|1|Unknown|Seed|0|0|20|31|None
+1632|Coffee Maker|91|MultiFacing|Provider|0|0|6|86400|None
+1633|Coffee Maker Seed|91|Unknown|Seed|0|0|20|756301|None
+1634|Coffee|999|NoSeed,Permanent|Consummable|0|0|4|0|None
+1635|Coffee Seed|999|Permanent|Seed|0|0|20|3600|None
+1636|Awkward Friendly Unicorn|999|NoSeed,Permanent,MultiFacing|Provider|0|0|6|604800|None
+1637|Awkward Friendly Unicorn Seed|999|Permanent|Seed|0|0|20|3600|None
+1638|Unicorn Horn|999|NoSeed,Permanent|Clothing|0|0|0|0|Hat
+1639|Unicorn Horn Seed|999|Permanent|Seed|0|0|20|3600|None
+1640|Very Bad Unicorn|999|NoSeed,Permanent,MultiFacing|Spike|0|0|4|0|None
+1641|Very Bad Unicorn Seed|999|Permanent|Seed|0|0|20|3600|None
+1642|Horse Mask|999|NoSeed,Permanent|Clothing|0|0|0|0|Hair
+1643|Horse Mask Seed|999|Permanent|Seed|0|0|20|3600|None
+1644|Unicorn Jumper|999|NoSeed,Permanent|Clothing|0|0|0|0|Shirt
+1645|Unicorn Jumper Seed|999|Permanent|Seed|0|0|20|3600|None
+1646|Happy Unicorn Block|50|MultiFacing|Foreground_Block|0|0|4|0|None
+1647|Happy Unicorn Block Seed|50|Unknown|Seed|0|0|20|126500|None
+1648|Unicorn Garland|999|NoSeed,Permanent|Clothing|0|0|0|0|Hand
+1649|Unicorn Garland Seed|999|Permanent|Seed|0|0|20|3600|None
+1650|Pink Hair|56|Permanent|Clothing|0|0|0|0|Hair
+1651|Pink Hair Seed|56|Permanent|Seed|0|0|20|177296|None
+1652|Aqua Hair|57|Permanent|Clothing|0|0|0|0|Hair
+1653|Aqua Hair Seed|57|Permanent|Seed|0|0|20|186903|None
+1654|Evil Brick Background|47|Unknown|Background_Block|0|0|6|0|None
+1655|Evil Brick Background Seed|47|Unknown|Seed|0|0|20|105233|None
+1656|Game Grave|241|Wrenchable|Game_Block|0|0|10|0|None
+1657|Game Grave Seed|241|Unknown|Seed|0|0|20|14004751|None
+1658|Game Goal|179|Wrenchable,Foreground|Game_Block|0|0|10|0|None
+1659|Game Goal Seed|179|Unknown|Seed|0|0|20|5740709|None
+1660|Game Generator|999|Wrenchable,Dropless,WorldLock,AutoPickup|Game_Generator|0|0|10|0|None
+1661|Game Generator Seed|999|Unknown|Seed|0|0|20|3600|None
+1662|Spike Juice|999|NoSeed,Permanent,Untradable|Consummable|0|0|4|0|None
+1663|Spike Juice Seed|999|Permanent|Seed|0|0|20|3600|None
+1664|Barbecue Grill|999|NoSeed,Permanent|Chemical_Combiner|0|0|10|0|None
+1665|Barbecue Grill Seed|999|Permanent|Seed|0|0|20|3600|None
+1666|Sea Monster Floatie|999|NoSeed,Permanent|Clothing|0|0|0|0|Chest
+1667|Sea Monster Floatie Seed|999|Permanent|Seed|0|0|20|3600|None
+1668|Water Wings|999|NoSeed,Permanent|Clothing|0|0|0|0|Hand
+1669|Water Wings Seed|999|Permanent|Seed|0|0|20|3600|None
+1670|Summer Kite|999|NoSeed,Permanent|Clothing|0|0|0|0|Hand
+1671|Summer Kite Seed|999|Permanent|Seed|0|0|20|3600|None
+1672|Rainbow Wings|258|Permanent|Clothing|0|0|0|0|Back
+1673|Rainbow Wings Seed|258|Permanent|Seed|0|0|20|17181252|None
+1674|Phoenix Wings|999|NoSeed,Permanent|Clothing|0|0|0|0|Back
+1675|Phoenix Wings Seed|999|Permanent|Seed|0|0|20|3600|None
+1676|Squirt Gun|999|NoSeed,Permanent|Clothing|0|0|0|0|Hand
+1677|Squirt Gun Seed|999|Permanent|Seed|0|0|20|3600|None
+1678|Sandcastle|999|NoSeed,Permanent,MultiFacing|…
